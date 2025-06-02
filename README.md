@@ -32,7 +32,11 @@ This project was developed as part of an NLP course assignment, with the goal of
 ## 🗂 Structure
 
 ├── docs/         # Preprocessed .txt documents extracted from Empulia PDFs
+
 ├── model/        # Quantized LLM model (.gguf)
+
 ├── db/           # FAISS index for retrieval
+
 ├── app.py        # Main pipeline: retrieval + LLM response
+
 └── README.md     # Project description and setup
