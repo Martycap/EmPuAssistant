@@ -1,0 +1,5 @@
+Prima fase: estrazione del datasource
+    1. Web sraping sulla pagina() con beautifulsoup4
+    2. Individuati e estratti tutti i pdf utili 
+    3. Trasformazione dei pdf estratti in txt con PyMuPDF
+
