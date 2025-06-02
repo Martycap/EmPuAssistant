@@ -29,7 +29,7 @@ EmpuAssistant is an NLP-based virtual assistant designed to help users navigate 
 ## 🎓 Academic Context
 This project was developed as part of an NLP course assignment, with the goal of exploring practical applications of local language models and document intelligence in public administration.
 
-##🗂 Structure
+## 🗂 Structure
 
 ├── docs/         # Preprocessed .txt documents extracted from Empulia PDFs
 ├── model/        # Quantized LLM model (.gguf)
