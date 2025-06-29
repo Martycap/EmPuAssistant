@@ -1,8 +1,0 @@
-requests
-beautifulsoup4
-PyMuPDF
-llama-cpp-python
-huggingface_hub
-numpy
-sentence-transformers
-faiss-cpu
