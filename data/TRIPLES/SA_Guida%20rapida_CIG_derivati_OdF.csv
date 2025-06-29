@@ -1,0 +1,35 @@
+soggetto,relazione,oggetto
+EmPULIA, consente, richiesta CIG derivati
+CIG derivati, richiesti per, Ordinativi di Fornitura
+Ordinativi di Fornitura, legati a, convenzioni
+Ordinativi di Fornitura, legati a, accordi quadro
+guida rapida, descrive, passaggi per CIG interoperabilita
+utente, accede a, Gruppo Funzionale Negozio Elettronico
+PI, configura, OdF
+PI, non ha accesso a, menu Gestione PCP
+PI, invia, OdF a PO
+PO, verifica, contenuto OdF
+PO, richiede, CIG
+PO, utilizza, comando Conferma Appalto
+PO, firma digitalmente, OdF
+PO, invia, OdF a fornitore
+OdF, contiene, parametri PCP
+parametri PCP, includono, Scheda PCP
+parametri PCP, includono, Stato PCP
+parametri PCP, includono, CIG Master
+parametri PCP, includono, Utente RUP
+PO, deve essere, profilato come RUP
+profilazione, effettuata da, Servizio Registrazione ANAC
+PI, invia, OdF in approvazione
+PO, invia, schede a PCP
+Conferma Appalto, e, servizio asincrono
+servizio asincrono, comporta, tempi attesa non quantificabili
+RUP, puo richiedere, CIG derivato extra piattaforma
+utente, inserisce manualmente, CIG derivato
+inserimento CIG manuale, comporta, disconnessione da PCP
+ordinativo disconnesso, disattiva, menu Gestione PCP
+menu Gestione PCP, non disponibile per, CIG inserito manualmente
+OdF non in lavorazione, riattiva, menu Gestione PCP
+utente, puo procedere con, richiesta interoperabilita
+una volta inviato OdF, non e possibile, attivare CIG manualmente
+una volta inviato OdF, non e possibile, disattivare CIG manualmente

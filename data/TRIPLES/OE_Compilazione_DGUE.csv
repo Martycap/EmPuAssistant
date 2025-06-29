@@ -1,0 +1,51 @@
+soggetto,relazione,oggetto
+Manuale, descrive, compilazione DGUE
+DGUE, e, autodichiarazione impresa
+DGUE, contiene, requisiti generali
+DGUE, contiene, requisiti speciali
+Compilazione DGUE, avviene su, piattaforma EmPULIA
+Operatore Economico, accede a, piattaforma EmPULIA
+Operatore Economico, clicca su, Compila DGUE
+Operatore Economico, compila, Parti DGUE
+Operatore Economico, compila, Sezioni DGUE
+Operatore Economico, compila, Moduli DGUE
+Sistema, presenta, campi precompilati
+Sistema, presenta, campi da compilare
+Sistema, popola, dati anagrafici azienda
+Sezioni DGUE, possono essere, precompilate dalla SA
+Operatore Economico, compila, sezioni attivate gara
+Piattaforma, segnala, risposte mancanti obbligatorie
+Piattaforma, evidenzia, domande in rosso
+Operatore Economico, clicca su, comando +
+Operatore Economico, indica, requisito per lotto
+Operatore Economico, clicca su, identificazione lotti
+Compilazione DGUE, puo attivare, domande dipendenti
+Operatore Economico, risponde, con risposta cumulativa
+Operatore Economico, clicca su, Genera PDF
+Operatore Economico, clicca su, Modifica Dati
+Operatore Economico, clicca su, Allega pdf firmato
+Piattaforma, consente, salvataggio in corso
+Piattaforma, consente, ripresa compilazione
+DGUE generato, puo essere, riutilizzato
+Operatore Economico, clicca su, Copia da DGUE
+Operatore Economico, seleziona, documento da riutilizzare
+Campi incompleti, evidenziati in, arancione
+Mandanti, compilano, DGUE strutturato
+Ausiliarie, compilano, DGUE strutturato
+Imprese esecutrici, compilano, DGUE strutturato
+Mandataria, clicca su, Richiedi compilazione DGUE
+Azienda ricevente, accede a, lista attivita
+Mandataria, invia, richiesta compilazione DGUE
+Mandante, riceve, attivita da svolgere
+Ausiliaria, riceve, attivita da svolgere
+Impresa esecutrice, riceve, attivita da svolgere
+Comando Invia, attiva, invio documento
+DGUE, usato per, iscrizione ad Albi
+DGUE, usato per, gare pubbliche
+Documento DGUE, compilato da, Operatore Economico
+Documento DGUE, puo essere, firmato digitalmente
+Operatore Economico, riutilizza, DGUE esistente
+Sistema, consente, modifica e rigenerazione PDF
+Compilazione DGUE, richiede, accesso con utenze
+Sistema, gestisce, raccolta informazioni OE
+Sistema, consente, verifica requisiti

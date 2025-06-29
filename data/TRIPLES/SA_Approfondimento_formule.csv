@@ -1,0 +1,60 @@
+soggetto,relazione,oggetto
+piattaforma empulia, fornisce, formule di valutazione economica
+formule economiche, classificate in, formule interdipendenti
+formule economiche, classificate in, formule indipendenti
+punteggio economico, dipende da, offerte degli altri concorrenti
+punteggio concorrente, dipende da, propria offerta economica
+formula, esempio di, valore assoluto
+formula, esempio di, massimo sconto
+formula, esempio di, massimo sconto non lineare
+formula, esempio di, ribasso massimo
+formula, esempio di, ribasso massimo non lineare
+formula, esempio di, valore soglia ribassi
+formula, esempio di, valore soglia ribassi condizionata
+formula, esempio di, valore soglia sconti
+formula, esempio di, valore soglia sconti condizionata
+formula, esempio di, massimo spread a scalino
+formula, esempio di, minimo spread a scalino
+formula, esempio di, valore offerta su massimo valore offerta moltiplicato punteggio
+formula, esempio di, percentuale offerta su massima percentuale offerta moltiplicato punteggio
+formula, esempio di, esponenziale
+stazione appaltante, puo usare, valutazione soggettiva
+valutazione soggettiva, consente, calcolo punteggi esternamente
+stazione appaltante, riporta, risultati nel sistema
+formula massimo sconto non lineare, richiede, offerte in percentuale
+formula massimo sconto non lineare, definita da, p uguale pmax per roff su rmax elevato alfa
+alfa, intervallo, zero uno
+formula ribasso massimo, disponibile per, offerte in percentuale e in prezzo
+formula ribasso massimo non lineare, definita da, p uguale pmax per roff su rmax elevato alfa
+formula valore soglia ribassi, definita da, roff minore uguale asoglia implica p uguale pmax per x per roff su asoglia
+formula valore soglia ribassi, definita da, roff maggiore asoglia implica p uguale pmax per x piu uno meno x per roff meno asoglia su rmax meno asoglia
+x, valore scelto da, zero virgola otto zero virgola ottantacinque zero virgola nove
+valore soglia sconti, espresso in, percentuale o prezzo
+se numero offerte, maggiore di, due
+punteggio, calcolato in base a, sconto offerto su media sconti
+sconto offerto, minore uguale a, media sconti
+punteggio, uguale a, x per roff su media sconti
+sconto offerto, maggiore di, media sconti
+punteggio, uguale a, x piu uno meno x per roff meno media su rmax meno media
+se numero offerte, minore uguale a, due
+punteggio, uguale a, x per roff su rmax
+punteggio, calcolato con, massimo due virgola uno
+formula minimo spread a scalino, usa, valore minimo offerto
+punteggio, calcolato in base a, valore offerto su massimo valore offerto
+punteggio, calcolato in base a, valore offerto su minimo valore offerto
+punteggio, calcolato in base a, percentuale offerta su massima percentuale offerta
+formula esponenziale, calcola punteggio da, rapporto tra valore offerto e valore base
+esponente, valore scelto tra, tre quattro cinque sei
+formule, progettate per, assegnare punteggio
+punteggio massimo, rappresentato da, p
+valore offerto, rappresentato da, voff
+valore base asta, rappresentato da, vba
+formula, usata da, empulia
+punteggio, calcolato con, p per uno meno potenza voff su vba elevato alfa
+piattaforma, offre, coefficiente soggettivo
+coefficiente, calcolato da, punteggio massimo
+coefficiente, inserito da, utente
+coefficiente, compreso tra, zero e uno
+piattaforma, usa, coefficienti per punteggio finale
+punteggio finale, calcolato da, autorita esterna
+offerta economica, caricata come, allegato

@@ -1,0 +1,62 @@
+soggetto,relazione,oggetto
+utenza fornitore, migrata, nuova piattaforma
+utente, riceve, credenziali di accesso per nuova piattaforma
+utente, accede, nuova piattaforma
+utente, utilizza, credenziali ricevute per email
+vecchia piattaforma, resta, accessibile
+vecchia piattaforma, accessibile con, stesse modalita
+nuova piattaforma, richiede, cambio password
+utente, clicca, comando cambio password
+utente, configura, nuova password
+password, deve rispettare, criteri di sicurezza
+utente, partecipa, prossime procedure di gara
+procedure vecchia piattaforma, accessibili con, precedenti modalita
+utente, accerta, dati di contatto corretti
+utente, clicca, comando utente
+utente, verifica, dati personali
+utente, modifica, qualifica email numeri di telefono
+utente, verifica, dati azienda
+utente, modifica, dati telefono fax sito web
+utente, entra, menu gestione anagrafiche
+utente, clicca, comando variazioni
+modifiche rilevanti, richiedono, generazione pdf
+modifiche rilevanti, richiedono, firma digitale
+pdf firmato, riallegato, sistema
+modifiche, approvate da, gestore del sistema
+richieste di modifica, non inviate piu, via email
+albi fornitori, includono, forniture e servizi
+albi fornitori, includono, lavori pubblici
+albi fornitori, includono, progettisti
+albo imprese, diviso in, due albi
+albo forniture e servizi, include, categorie beni e servizi
+albo lavori pubblici, include, categorie SOA
+abilitazione beni e servizi, comporta, abilitazione albo forniture e servizi
+abilitazione SOA, comporta, abilitazione albo lavori pubblici
+abilitazione entrambe categorie, comporta, abilitazione entrambi albi
+ci sono, due albi separati
+due albi, hanno, scadenze diverse
+utente, verifica, abilitazioni in anagrafica
+abilitazioni forniture e servizi, consultabili in, classi di iscrizione
+abilitazioni lavori pubblici, consultabili in, categorie SOA
+albero categorie, non modificato
+per modificare categorie, utente ripresenta, domanda abilitazione
+nuova piattaforma, richiede, selezione massimo dettaglio categorie
+intermedi categorie, non selezionabili piu, in futuro
+utente, ricercabile per, categorie di interesse
+utente, invitabile a gare per, categorie di interesse
+data scadenza primo rinnovo, fissata, 31/12/2023
+nuova piattaforma, consente, gestione piu utenze per azienda
+per creare nuovo utente, utente effettua, registrazione operatore economico
+dati nuovo utente, includono, codice fiscale e partita IVA azienda
+dati anagrafici precaricati, non modificabili
+nuovo utente, riceve, credenziali di accesso
+utente, accede, anagrafica con nuove utenze
+sezione utenti, mostra, elenco utenti azienda
+elenco utenti, aggiornato, in tempo reale
+documenti strutturati, includono, comando assegna a
+comando assegna a, assegna, documento a utente profilato
+sezione migrazione piattaforma, contiene, manuali
+sezione migrazione piattaforma, contiene, strumenti apprendimento
+sezione migrazione piattaforma, contiene, eventi formativi
+eventi formativi, includono, webinar su nuova piattaforma
+utente, invitato a, partecipare a eventi formativi

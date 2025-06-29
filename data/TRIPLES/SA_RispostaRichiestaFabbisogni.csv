@@ -1,0 +1,92 @@
+soggetto,relazione,oggetto
+manuale, descrive, funzionalita gestione richieste fabbisogni
+funzionalita, include, presa in carico
+funzionalita, include, gestione sub-questionari
+funzionalita, include, invio questionario
+richieste fabbisogni, gestite da, funzionari
+richieste fabbisogni, gestite da, RUP
+richieste fabbisogni, disponibili per, utenti con profilo Fabbisogni Operativo
+schermata richieste da evadere, consente, ricerca con criteri
+schermata richieste da evadere, consente, selezione richieste
+comandi, includono, Prendi in carico
+comandi, includono, Stampa
+comandi, includono, Esporta in Excel
+comandi, includono, Seleziona
+utente, accede a, piattaforma e-procurement
+utente, seleziona, gruppo funzionale Gestione fabbisogni
+utente, visualizza, richieste da evadere
+richiesta, include, oggetto
+richiesta, include, termini
+richiesta, include, parametri
+richiesta, include, atti
+richiesta, include, prodotti
+richiesta, include, note
+richiesta, include, documenti associati
+utente, puo inviare, sub-questionari
+utente, puo inviare, questionario finale
+risposta, firmabile con, firma digitale
+sub-questionari, prorogabili con, comando Proroga
+utente, prende in carico, richiesta con comando Prendi in carico
+richiesta presa in carico, spostata in, cartella Richieste Fabbisogni in carico
+referente, puo rilasciare, raccolta fabbisogni
+cartella Richieste Fabbisogni in carico, contiene, richieste utente collegato
+area filtro, consente, ricerca richieste con criteri
+utente, accede a, dettaglio richiesta con icona lente
+utente collegato, compila, questionario
+utente, puo delegare, compilazione sub-questionari
+accesso questionario, tramite, comando Apri Risposta
+sistema, mostra, documento Questionario Fabbisogni
+referente fabbisogni, puo delegare, utenti per compilazione
+scheda Sub-Questionari, consente, indicare utenti e scadenza
+referente, monitora, stato sub-questionario
+stato sub-questionario, puo essere, In Lavorazione
+stato sub-questionario, puo essere, Completato
+stato sub-questionario, puo essere, Annullato
+comando Invia Sub-Questionari, cambia stato, In attesa Sub-Questionari
+invio questionario, richiede, compilazione sezione Prodotti
+compilazione questionario, richiede, firma digitale
+referente, scarica, template prodotti compilati
+referente, carica, tabella prodotti modificata
+comando Verifica informazioni, controlla, inserimento prodotti
+utente, scarica, modello xlsx
+utente, carica, file compilato nel sistema
+sistema, segnala, errori validazione
+messaggio sistema, mostra, Informazione foglio Prodotti presenta anomalie
+utente, corregge, errori manualmente
+questionario, firmabile con, firma digitale
+firma, effettuabile con, PDF
+utente, allega, pdf firmato al questionario
+utenti delegati, ricevono, notifica
+utenti, accedono a, cartella Gestione Fabbisogni
+utenti, accedono a, Sub-questionari in carico
+documento sub-questionari, composto da, schede Testata e Prodotti
+tabella prodotti, compilabile con, Excel o a video
+utente, corregge, errori, manualmente o su file
+sistema, consente, proroga scadenza sub-questionari
+proroga, definita con, data e motivazione
+documenti, allegabili con, comando Aggiungi allegato
+proroga, inviabile con, comando Invio
+proroga, salvabile con, comando Salva
+sezione Le Mie Richieste Fabbisogni, mostra, richieste evase
+sezione, consente, filtro e ricerca richieste
+nuova risposta, compilabile con, comando Apri Nuova Risposta
+nuova risposta, invalida, precedente questionario
+apertura nuova risposta, richiede, apertura dettaglio documento
+sub-questionari inviati, possono essere, interrotti
+comando Interrompi sub-Questionari, chiude, ricezione risposte
+comunicazione generica, visibile in, Lista Attivita
+comunicazione, notificata via, mail
+notifica mail, inviata a, utenti enti destinatari
+visualizzazione richieste fabbisogni, accessibile con, profilo Fabbisogni Monitoraggio
+lista completa richieste, visibile in, sezione Gestione Fabbisogni
+tabella richieste, mostra, In Carico A
+tabella richieste, mostra, Registro Di Sistema
+tabella richieste, mostra, Titolo Documento
+tabella richieste, mostra, Oggetto
+tabella richieste, mostra, Data Invio
+tabella richieste, mostra, Rispondere Entro Il
+tabella richieste, mostra, Stato Risposta
+risultati indagine, accessibili con, profilo Fabbisogni Monitoraggio
+tabella risultati, mostra, Registro Di Sistema
+tabella risultati, mostra, Titolo Documento
+tabella risultati, mostra, Data Invio

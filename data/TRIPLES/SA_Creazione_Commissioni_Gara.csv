@@ -1,0 +1,40 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per la creazione delle commissioni di gara
+sistema, crea, commissione
+commissione, include, presidente
+commissione, include, soggetto valutatore
+soggetto valutatore, apre, documentazione
+soggetto valutatore, valuta, documentazione
+soggetto valutatore, esclude, operatori economici
+soggetto valutatore, invia, comunicazioni
+soggetto valutatore, procede, aggiudicazione
+soggetto valutatore, richiede, offerte migliorative
+commissione di gara, si crea, dopo scadenza termini
+presidente, deve essere, registrato al sistema
+documento, presenta, informazioni identificative
+toolbar, contiene, comando salva
+toolbar, contiene, comando conferma
+toolbar, contiene, comando modifica
+toolbar, contiene, comando stampa
+sezione seggio di gara, consente, inserimento atti
+sezione seggio di gara, consente, definizione membri
+utente, si seleziona, da elenco proposto
+sistema, compila, campi automaticamente
+membro commissione tecnica, si seleziona, da utenti registrati
+commissione tecnica, valuta, procedura di aggiudicazione
+commissione tecnica, include, atti
+commissione tecnica, include, membri
+commissione economica, si crea, se differente da seggio di gara
+commissione economica, include, atti
+commissione economica, include, membri
+comando copia seggio di gara, duplica, atti e nominativi
+commissione economica, si duplica, da commissione tecnica
+nome commissione, si inserisce, nella creazione
+data inizio attivita, si inserisce, nella creazione
+data fine attivita, si inserisce, nella creazione
+utente, si registra, se non ancora presente
+curriculum utente, si allega, nella lista utenti
+documento, si conferma, cliccando su comando conferma
+documento, si modifica, cliccando su comando modifica
+notifica, si invia, a indirizzo pec dell'ente
+storico, contiene, registro modifiche

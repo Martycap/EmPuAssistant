@@ -1,0 +1,95 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per valutazione concorsi
+manuale, descrive, fasi per valutazione concorsi
+utente, accede, area riservata
+utente, seleziona, sezione concorsi di idee e progettazione
+utente, clicca, valutazione concorsi
+pagina valutazione gare, presenta, area filtro
+pagina valutazione gare, mostra, tabella PdA accessibili
+tabella, include, nome oggetto scadenza importo offerte utente incaricato
+utente, clicca, lente colonna apri
+documento procedura, disponibile, sezione documenti bando
+sezione intestazione, mostra, indicazioni per compilazione
+toolbar, contiene, comandi gestione documento
+sezione commissioni, presenta, riepilogo commissioni di gara
+sezione sedute di gara, consente, consultazione verbali
+valutazione tecnica, inizia, apertura buste anonime
+apertura buste, condotta da, presidente o soggetto valutatore
+tabella offerte tecniche, mostra, codice progressivo partecipante
+utente, clicca, comando avvia apertura buste tecniche
+buste tecniche, vengono, decriptate
+colonne tabella, mostrano, informazioni diverse
+colonna stato, inizialmente, da valutare
+scheda valutazione, consente, assegnazione punteggio
+punteggio tecnico, popolato da, commissione
+toolbar, contiene, comandi apertura buste e assegnazione punteggio
+toolbar, include, comando crea verbale
+comando assegna punteggio, conclude, fase valutazione tecnica
+comando crea verbale, genera, verbale tecnico
+piattaforma, consente, stampa e download allegati
+commissione, visualizza, dettaglio risposte
+commissione, scarica, allegati presenti
+commissione, clicca, icona scheda valutazione
+scheda valutazione, include, comandi salva e chiudi
+tabella valutazione, richiede, inserimento punteggio o coefficiente
+commissione, inserisce, motivazione valutazione
+comando chiudi valutazione tecnica, cambia, stato documento in confermato
+commissione, clicca, comando esito
+commissione, assegna, esito valutazione tecnica
+comando tabella riparametrazione, mostra, punteggi per criterio
+comando tabella valutazione, genera, pdf punteggi tecnici
+comando visualizza giudizi per criterio, mostra, giudizi per idea
+commissione, clicca, comando ripristina fase
+commissione, visualizza, graduatoria anonima
+graduatoria, mostra, punteggi finali e premi
+pannello di comando, include, funzionalita sorteggio e sblocco buste
+comando sblocca buste amministrative, sostituisce, progressivo con nomi imprese
+valutazione amministrativa, condotta da, presidente o valutatore
+tabella valutazione amministrativa, presenta, warning e stato
+toolbar amministrativa, include, verifica requisiti e verifica offerte multiple
+comando estrazione ausiliarie, genera, report offerte ricevute
+comando crea verbale, genera, verbale amministrativo
+comando scarica allegati, effettua, download zip allegati
+commissione, clicca, apertura buste
+commissione, clicca, ragione sociale per apertura singola busta
+icon busta, cambia, stato apertura
+sezione testata, contiene, info operatore economico
+tabella lista allegati, riporta, documentazione inviata
+commissione, assegna, esito valutazione amministrativa
+esclusione, inibisce, valutazione buste successive
+utente, visualizza, documento risposta richiesta DGUE
+tabella valutazione amministrativa, mostra, esito e motivazione
+soccorso istruttorio, attivabile, stato verifica
+commissione, seleziona, motivazione verifica
+commissione, clicca, esclusa per escludere offerta
+verifica requisiti amministrativi, attivabile, esito ammessa
+utente, clicca, sorteggio aziende
+stato azienda, cambia, sorteggiata
+utente, clicca, comando dettaglio
+utente, clicca, comando invio
+utente, clicca, comando partecipanti
+utente, clicca, comando modifica per modificare partecipazione
+utente, inserisce, codice fiscale mandante
+sistema, popola, campi anagrafici se registrato
+utente, modifica, informazioni partecipanti
+per concludere valutazione amministrativa, tutte offerte devono essere, valutate
+utente, termina, fase amministrativa
+utente, genera, verbale amministrativo
+utente, invia, comunicazione conclusione valutazione
+utente, estrae, report ausiliarie
+sezione allegati, mostra, allegati procedura
+sezione note, mostra, note descrittive procedura
+sezione cronologia, mostra, storico operazioni
+sezione documenti, mostra, documenti procedura
+concorso progettazione due fasi, include, fase idee e fase progetti
+operatori economici, presentano, idee in prima fase
+operatori, invitati, seconda fase
+valutazione seconda fase, determina, aggiudicazione
+piattaforma, esclude, idee sotto soglia punteggio
+idea, passa, stato verificato
+idee valutate, ricevono, stato valutato o esclusa
+utente, seleziona, stato da assegnare
+per idee in verifica, si avvia, comunicazione integrativa
+per idee escluse, si invia, comunicazione esclusione
+sezione finale, riepiloga, idee e punteggi
+utente, clicca, comando crea inviti

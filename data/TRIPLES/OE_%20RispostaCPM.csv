@@ -1,0 +1,91 @@
+soggetto,relazione,oggetto
+Manuale, illustra, indicazioni
+Manuale, riguarda, consultazioni preliminari di mercato
+Manuale, riguarda, invio risposta
+Utente, deve essere, registrato su EmPULIA
+Utente, accede a, Area Riservata
+Utente, clicca su, Consultazioni Preliminari di Mercato
+Utente, clicca su, Consultazioni Pubblicate
+Utente, accede a, schermata login
+Utente, inserisce, credenziali
+Utente, visualizza, Dettaglio Bando
+Dettaglio Bando, contiene, Oggetto
+Dettaglio Bando, contiene, Incaricato
+Dettaglio Bando, contiene, Termine Richiesta Quesiti
+Dettaglio Bando, contiene, Motivazione Appalto Verde o Sociale
+Dettaglio Bando, contiene, Presentare Le Risposte entro
+Dettaglio Bando, contiene, Documentazione
+Dettaglio Bando, contiene, Note
+Operatore Economico, clicca su, Partecipa
+Operatore Economico, clicca su, Scarica Allegati
+Operatore Economico, clicca su, invia un quesito
+Stazione Appaltante, pubblica, risposte ai quesiti
+Comando Partecipa, non e abilitato, consultazione in rettifica
+Comando Partecipa, non e abilitato, consultazione scaduta
+Operatore Economico, clicca su, Salva
+Operatore Economico, clicca su, Invio
+Operatore Economico, clicca su, Prendi In Carico
+Operatore Economico, clicca su, Rilascia
+Operatore Economico, clicca su, Assegna a
+Operatore Economico, clicca su, Precedente
+Operatore Economico, clicca su, Documenti Collegati
+Operatore Economico, clicca su, Chiudi
+Documenti Collegati, collegati a, consultazione preliminare
+Documenti Risposta, includono, Testata
+Documenti Risposta, includono, Busta Documentazione
+Testata, contiene, dati Azienda
+Testata, contiene, Fascicolo di Sistema
+Testata, contiene, Registro di Sistema Bando
+Testata, contiene, Rispondere Entro il
+Testata, contiene, Oggetto
+Operatore Economico, compila, Titolo Documento
+Busta Documentazione, richiede, documentazione della Stazione Appaltante
+Busta Documentazione, consente, documentazione di iniziativa
+Stazione Appaltante, puo richiedere, documentazione obbligatoria
+Stazione Appaltante, puo richiedere, documentazione facoltativa
+Lista Allegati, indica, documenti richiesti
+Sistema, controlla, firma digitale
+Utente, clicca su, Aggiungi Allegato
+Utente, inserisce, descrizione documento
+Utente, carica, file
+Sistema, sostituisce, documento precedente
+Sistema, inibisce, invio in caso di riga incompleta
+Sistema, verifica, completezza delle informazioni
+Documento Risposta, cambia stato, Inviato
+Documento Risposta, cambia stato, In lavorazione
+Sistema, alimenta, Registro di Sistema
+Sistema, alimenta, Data
+Utente, clicca su, Apri
+Utente, accede a, Doc. Collegati
+Sezione Risposte, contiene, stato risposta
+Risposta, ha stato, Inviato
+Risposta, ha stato, Invalidato
+Risposta, ha stato, Salvato
+Stazione Appaltante, invia, comunicazione integrativa
+Operatore Economico, riceve, email notifica
+Operatore Economico, accede a, Area Riservata
+Operatore Economico, visualizza, comunicazione
+Utente, clicca su, Comunicazione Ricevute
+Utente, clicca su, Comunicazione
+Utente, clicca su, Dettaglio
+Utente, clicca su, Crea Risposta
+Toolbar, include, Salva
+Toolbar, include, Invio
+Toolbar, include, Stampa
+Toolbar, include, Esporta in xls
+Toolbar, include, Doc. Collegati
+Toolbar, include, Scarica Allegati
+Toolbar, include, Chiudi
+Comando Crea Risposta, e abilitato, se prevista data di risposta
+Utente, inserisce, testo risposta
+Utente, clicca su, Aggiungi Allegato
+Documento, cambia fase, Inviato
+Sistema, alimenta, Registro di Sistema
+Utente, clicca su, Elenco Risposte
+Elenco Risposte, mostra, risposte inviate
+Elenco Risposte, mostra, risposte in lavorazione
+Stazione Appaltante, invia, Comunicazione di Chiusura
+Comunicazione di Chiusura, e di, sola consultazione
+Comunicazione di Chiusura, contiene, indicazioni della Stazione Appaltante
+Stazione Appaltante, allega, file
+Utente, scarica, file allegati

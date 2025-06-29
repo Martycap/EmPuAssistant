@@ -1,0 +1,119 @@
+soggetto,relazione,oggetto
+Manuale, fornisce, istruzioni
+Manuale, riguarda, richiesta abilitazione
+Piattaforma, gestisce, abilitazione agli Albi
+Albi, includono, Albo Forniture e Servizi
+Albi, includono, Albo Lavori Pubblici
+Albi, includono, Albo Professionisti
+Operatore Economico, accede a, sezione bandi pubblicati
+Operatore Economico, seleziona, Albo di interesse
+Toolbar, offre, stampa del bando
+Operatore Economico, compila, dichiarazione
+Operatore Economico, allega, documentazione
+Gestione richieste, e separata per, ogni Albo
+Richiesta di iscrizione, puo avere, stato iscritto
+Richiesta di iscrizione, puo avere, stato sospeso
+Richiesta di iscrizione, puo avere, stato cancellato
+Stato iscritto, indica, conferma ufficio preposto
+Stato sospeso, indica, richiesta non confermata
+Stato cancellato, indica, rimozione da elenco
+Operatore Economico, visualizza, lista bandi pubblicati
+Operatore Economico, ordina, bandi per data scadenza
+Lista bandi, contiene, Descrizione Breve
+Lista bandi, contiene, Registro di Sistema
+Lista bandi, contiene, Titolo Bando Istitutivo
+Lista bandi, contiene, Scadenza
+Operatore Economico, clicca su, Vedi
+Operatore Economico, clicca su, Esporta in xls
+Operatore Economico, seleziona, Bandi fornitori Scaduti
+Operatore Economico, clicca su, Iscrizione
+Richiesta di abilitazione, organizzata in, Testata
+Richiesta di abilitazione, organizzata in, Dichiarazioni
+Richiesta di abilitazione, organizzata in, Documentazione
+Documentazione, include, DGUE
+Operatore Economico, salva, richiesta
+Operatore Economico, riprende, richiesta
+Toolbar, include, Salva
+Toolbar, include, Invia
+Toolbar, include, Assegna a
+Toolbar, include, Anteprima di Stampa
+Toolbar, include, Documenti Collegati
+Toolbar, include, Precedente
+Toolbar, include, Chiudi
+Testata, contiene, Utente creatore
+Testata, contiene, Titolo documento
+Testata, contiene, Fase
+Testata, contiene, Utente in carico
+Sistema, precompila, dati registrazione
+Informazioni obbligatorie, segnate da, grassetto e asterisco
+Sezione Il Sottoscritto, richiede, dati compilatore
+Sezione Il Sottoscritto, richiede, dati dichiarante
+Operatore Economico, seleziona, localita
+Operatore Economico, compila, area Dichiara
+Operatore Economico, seleziona, campi
+Operatore Economico, seleziona, certificazioni
+Operatore Economico, cerca, certificazioni
+Operatore Economico, allega, documentazione amministrativa
+Documentazione, specifica, obbligatorieta
+Documentazione, specifica, formati ammessi
+Operatore Economico, clicca su, Compila DGUE
+Operatore Economico, allega, DGUE firmato
+DGUE firmato, visibile in, Allegato DGUE
+Operatore Economico, elimina, righe non compilate
+Operatore Economico, clicca su, Aggiungi Allegato
+Operatore Economico, compila, nuova riga
+Operatore Economico, clicca su, Allegato
+Operatore Economico, genera, Pdf
+Operatore Economico, firma, Pdf
+Operatore Economico, clicca su, Allega pdf firmato
+Operatore Economico, clicca su, Invia
+Sistema, genera, informazioni mancanti
+Documento, cambia stato, In Valutazione
+Richiesta abilitazione, diventa, non modificabile dopo invio
+Esito richiesta, puo essere, Confermata
+Esito richiesta, puo essere, Rifiutata
+Esito richiesta, puo essere, Integrazione
+Nuova richiesta, invalida, precedente richiesta
+Richiesta precedente, ha stato, Invalidato
+Sezione Documenti Collegati, mostra, istanze salvate
+Operatore Economico, clicca su, Modifica istanza
+Documento, cambia fase, In lavorazione
+Operatore Economico, accede a, Area Riservata
+Operatore Economico, clicca su, Comunicazioni
+Operatore Economico, clicca su, Ricevute
+Schermata, mostra, tabella comunicazioni ricevute
+Comunicazioni, contengono, titolo documento
+Comunicazioni, contengono, data invio
+Comunicazioni, contengono, registro di sistema
+Comunicazioni, contengono, richiesta di risposta
+Comunicazioni, contengono, creata risposta
+Operatore Economico, clicca su, Vedi
+Conferma iscrizione, mostra, dati identificativi
+Conferma iscrizione, mostra, fase notificato
+Rifiuto iscrizione, mostra, dati identificativi
+Rifiuto iscrizione, mostra, fase notificato
+Richiesta abilitazione, rifiutata, se non integrata correttamente
+Operatore Economico, riceve, richiesta integrazione
+Operatore Economico, clicca su, Risposta
+Operatore Economico, compila, campo risposta
+Operatore Economico, clicca su, Aggiungi allegato
+Operatore Economico, clicca su, Invio
+Richiesta abilitazione, cambia fase, Integrato
+Documento di risposta, archiviato in, Comunicazioni inviate
+Operatore Economico, riceve, invito rinnovo
+Sistema, propone, istanza precedente
+Operatore Economico, aggiorna, dichiarazioni
+Sistema, controlla, ragione sociale
+Sistema, controlla, forma giuridica
+Sistema, controlla, nome
+Sistema, controlla, cognome
+Sistema, controlla, codice fiscale
+Sistema, controlla, procura
+Sistema, controlla, indirizzo PEC
+Sistema, controlla, categorie merceologiche
+Sistema, controlla, dichiarazione reati
+Sistema, controlla, allegati
+Modifiche, non presenti, conferma automatica
+Modifiche, presenti, nuova valutazione
+Rinnovo non effettuato, causa, sospensione iscrizione
+Sistema, invia, invito notifica

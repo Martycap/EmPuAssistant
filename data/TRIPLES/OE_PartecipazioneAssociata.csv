@@ -1,0 +1,52 @@
+soggetto,relazione,oggetto
+manuale, fornisce, indicazioni per partecipazione in forma associata
+partecipazione in forma associata, include, raggruppamento temporaneo di imprese
+partecipazione in forma associata, include, avvalimento
+partecipazione in forma associata, include, consorziate
+manuale, vieta, comunicazione credenziali helpdesk
+manuale, vieta, comunicazione offerte economiche helpdesk
+manuale, vieta, comunicazione screenshot helpdesk
+innovapuglia, e, gestore piattaforma telematica
+innovapuglia, e, gestore supporto tecnico
+partecipazione a gara, possibile con, RTI
+sistema, compila, tabella RTI
+tabella RTI, contiene, informazioni mandataria
+offerta, inviata da, mandataria RTI
+offerta, inviata da, mandataria consorzio
+partecipazione a gara, possibile con, avvalimento
+ausiliaria, selezionata da, operatore economico
+operatore economico, usufruisce di, avvalimento
+ausiliaria, inserita con, comando Inserisci ausiliarie
+ausiliaria, identificata da, codice fiscale
+sistema, compila, campi anagrafici ausiliaria
+ausiliaria, eliminata con, icona cestino
+partecipazione a gara, possibile con, consorziate
+esecutrice dei lavori, inserita con, comando Inserisci esecutrici
+operatore economico, usufruisce di, consorziate
+esecutrice, abbinata a, operatore economico
+esecutrice, eliminata con, icona cestino
+DGUE, richiesto con, comando Richiedi compilazione DGUE
+richiesta DGUE, inviata a, operatore economico
+DGUE ricevuto, allegato a, offerta
+DGUE, visualizzato con, icona ricerca colonna DGUE
+DGUE, compilato da, operatore economico
+operatore economico, accede a, piattaforma
+operatore economico, seleziona, attivita da evadere
+comando Annulla, rifiuta, documento DGUE
+comando Chiudi, torna a, schermata precedente
+documento DGUE, inviato se, stato e Inviato
+offerta, non inviata se, anomalie presenti
+sistema, mostra, quadro sintesi anomalie
+utente, puo, correggere anomalie
+utente, puo, confermare invio nonostante anomalie
+mandante, riceve, richiesta invio DGUE
+ausiliaria, riceve, richiesta invio DGUE
+esecutrice, riceve, richiesta invio DGUE
+utente, accede con, utenze
+utente, trova richiesta in, lista attivita
+utente, inizia compilazione con, comando Prendi in carico
+utente, apre, risposta
+documento DGUE, generato in, formato PDF
+documento DGUE, firmato con, firma digitale
+documento DGUE, ricaricato in, sezione Allega PDF firmato
+comando Invia, invia, documento a mandataria

@@ -1,0 +1,41 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni trasmissione avviso aggiudicazione
+transmissione avviso aggiudicazione, richiesta da, codice contratti
+transmissione avviso aggiudicazione, regolata da, regole ANAC
+transmissione avviso aggiudicazione, obbligatoria per, procedure con CIG in interoperabilita
+utente abilitato, accede a, menu Gestione PCP
+utente abilitato, clicca su, Pubblica Avviso di Aggiudicazione
+piattaforma, avverte, operazione non reversibile
+piattaforma, trasmette, scheda aggiudicazione a PCP
+scheda aggiudicazione, coerente con, tipo procedura espletata
+utente, verifica, trasmissione scheda in Cronologia PCP
+scheda, ha esito, Elaborato senza errori
+piattaforma, schedula, chiamata servizio Consulta Avviso
+servizio Consulta Avviso, permette, verifica pubblicazione avviso
+pubblicazione avviso, condizionata da, condizioni paragrafo 2
+utente, definisce, lotti da trasmettere in procedura multi-lotto
+utente, clicca su, Invia per trasmissione ANAC
+utente, puo salvare, documento e trasmettere successivamente
+documento salvato, disponibile in, sezione Documenti procedura
+utente, verifica, trasmissione scheda in Cronologia PCP
+piattaforma, consiglia, verifica ogni 10 ore con Consulta Avviso
+pubblicazione avviso, disponibile solo se, condizioni paragrafo 2.5 verificate
+piattaforma, gestisce, schede non aggiudicazione
+revoca procedura, comporta, invio automatico scheda non aggiudicazione
+procedura deserta, comporta, invio automatico scheda non aggiudicazione
+lotti deserti, permettono, invio manuale scheda non aggiudicazione
+offerte escluse o decadute, permettono, invio manuale scheda non aggiudicazione
+utente RUP, accede a, menu Gestione PCP
+utente RUP, clicca su, Invio non Aggiudicazione
+piattaforma, conferma, operazione non reversibile
+piattaforma, trasmette, scheda non aggiudicazione
+utente RUP, definisce, lotti per non aggiudicazione
+utente, seleziona, colonna Includi Lotto
+utente, clicca su, Invia per trasmettere scheda
+scheda, trasmessa a, ANAC
+utente, puo salvare, documento non aggiudicazione
+documento non aggiudicazione, disponibile in, sezione Documenti
+utente, verifica, trasmissione scheda in Cronologia PCP
+riepilogo finale, mostra, ultima scheda PCP trasmessa
+riepilogo finale, mostra, stato di ciascun lotto
+

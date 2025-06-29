@@ -1,0 +1,57 @@
+soggetto,relazione,oggetto
+Consultazione Preliminare di Mercato, fornisce, istruzioni per l'indizione
+Consultazione Preliminare di Mercato, consente, acquisizione informazioni tecniche e operative
+Stazioni Appaltanti, acquisiscono, informazioni tecniche
+Operatori Economici, raccolgono, informazioni rilevanti sull'appalto
+Utenti autorizzati, devono predisporre, informazioni e documentazione necessarie
+Utenti autorizzati, inviamo, documentazione in approvazione
+Creazione Consultazione, richiede, accesso Area Riservata
+Toolbar, offre, comandi di gestione documento
+Consultazione, puo essere, in lavorazione
+Consultazione, puo essere, in approvazione
+Consultazione, puo essere, pubblicata
+Consultazione, puo essere, rifiutata
+Consultazione, puo essere, in rettifica
+Consultazione, puo essere, rettificata
+Consultazione, puo essere, chiusa
+Documento, contiene, sezioni multiple
+Sezione Intestazione, indica, compilatore del documento
+Sistema, valorizza automaticamente, registro e data invio
+Campo RUP, puo essere, gia compilato
+Campo Oggetto, richiede, descrizione consultazione
+Termini, devono rispettare, ordine temporale
+Consultazione, puo essere, classificata come appalto verde
+Consultazione, puo essere, classificata come appalto sociale
+Documentazione, puo essere, etichettata come obbligatoria
+Documentazione, puo essere, etichettata come facoltativa
+Casella, consente, richiedere firma digitale
+Utenti, sono assegnati, gestione chiarimenti
+Cronologia, verifica, storico operazioni
+Documenti, visualizzano, comunicazioni e rettifiche
+Operatori Economici, inseriscono, risposte
+Sistema, invia, notifica email per nuova risposta
+RUP, riceve, notifica email
+Utente, puo, approvare consultazione
+Utente, puo, non approvare consultazione
+Consultazione, cambia stato, in approvazione
+Consultazione, cambia stato, pubblicata
+Consultazione, cambia stato, chiusa
+Consultazione CPM, consente, gestione consultazione
+Consultazione, puo subire, rettifica
+Consultazione, puo subire, proroga
+Comunicazione, puo essere, integrativa
+Comunicazione integrativa, puo essere inviata a, singolo operatore economico
+Comunicazione integrativa, puo essere inviata a, piu operatori economici
+Richiesta risposta, puo essere, abilitata
+Destinatari, possono essere, esclusi
+Risposte, sono visualizzabili da, sezione Documenti
+Risposte, sono visualizzabili da, sezione Conversazione
+Toolbar, contiene, comando Invio
+Toolbar, contiene, comando Salva
+Toolbar, contiene, comando Comunicazioni
+Toolbar, contiene, comando Chiusura
+Calendario, fornisce, quadro completo delle scadenze
+Tabella, prevede, tre colonne
+Colonna, indica, tipo di procedura
+Colonna, indica, descrizione scadenza
+Colonna, indica, numero manuale SA

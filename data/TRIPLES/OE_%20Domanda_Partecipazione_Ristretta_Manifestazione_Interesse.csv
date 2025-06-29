@@ -1,0 +1,71 @@
+soggetto,relazione,oggetto
+Manuale, fornisce, istruzioni
+Manuale, riguarda, invio domanda di partecipazione
+Manuale, riguarda, manifestazione di interesse
+Operatore Economico, deve essere, registrato a EmPULIA
+Operatore Economico, partecipa a, procedura di gara ristretta
+Operatore Economico, partecipa a, manifestazione di interesse
+Utente, accede a, Avvisi/Bandi
+Utente, accede a, Bandi Pubblicati
+Utente, accede a, Avvisi Pubblicati
+Utente, clicca su, Partecipa
+Utente, clicca su, Scarica Allegati
+Utente, clicca su, Chiarimenti
+Stazione Appaltante, pubblica, risposte ai quesiti
+Utente, visualizza, area Chiarimenti
+Utente, clicca su, Partecipa
+Utente, riceve, messaggio informativo
+Utente, puo predisporre, domanda di partecipazione
+Utente, clicca su, Salva
+Utente, clicca su, Invio
+Utente, clicca su, Elimina
+Utente, clicca su, Esporta in xls
+Utente, clicca su, Assegna a
+Utente, clicca su, Documenti Collegati
+Utente, clicca su, Scarica Allegati
+Utente, clicca su, Chiudi
+Domanda di partecipazione, e divisa in, Testata
+Domanda di partecipazione, e divisa in, Busta Documentazione
+Testata, contiene, Operatore
+Testata, contiene, Stato del documento
+Testata, contiene, Utente In Carico
+Sistema, compila, Registro di Sistema
+Sistema, compila, Data
+Utente, assegna, Titolo
+Utente, completa, Titolo documento
+Utente, allega, documentazione amministrativa
+Utente, allega, documentazione di iniziativa
+Forme associate, includono, Raggruppamento Temporaneo di Imprese
+Forme associate, includono, Avvalimento
+Forme associate, includono, Consorziate
+Utente, clicca su, Compila DGUE
+Sistema, controlla, firma digitale
+Lista Allegati, elenca, documenti allegati
+Utente, clicca su, Carica Allegato
+Utente, clicca su, Elimina Allegato
+Utente, clicca su, Verifica Informazioni
+Sistema, notifica, anomalie
+Sistema, visualizza, messaggio informazione
+Utente, clicca su, Riprendi Allegati Bando
+Sistema, reintegra, allegati originali
+Sistema, visualizza, messaggio video
+Sistema, blocca, nuova domanda
+Utente, clicca su, Assegna
+Sistema, esegue, controlli
+Sistema, visualizza, messaggio di conferma
+Stato della domanda, cambia in, Inviato
+Stato della domanda, cambia in, Verifica in corso
+Utente, clicca su, Annulla
+Utente, clicca su, Conferma
+Sistema, visualizza, messaggio di errore
+Utente, clicca su, Salva
+Utente, clicca su, Elimina
+Utente, clicca su, OK
+Utente, clicca su, Cancel
+Stato del documento, cambia in, Annullato
+Sistema, conferma, operazione
+Utente, accede a, Bandi a cui sto partecipando
+Utente, accede a, Avvisi a cui sto partecipando
+Utente, visualizza, documenti collegati
+Utente, visualizza, stato del documento
+Stato del documento, puo essere, In lavorazione

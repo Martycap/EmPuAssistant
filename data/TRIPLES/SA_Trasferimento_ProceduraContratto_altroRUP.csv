@@ -1,0 +1,64 @@
+soggetto,relazione,oggetto
+manuale, descrive, procedure trasferimento RUP
+trasferimento procedura, possibile per, cambiamenti organizzativi
+trasferimento procedura, possibile per, gare su delega
+trasferimento procedura, possibile per, richieste CIG affidamento
+RUP destinatario, deve, prendere in carico procedura
+RUP destinatario, trasmette, servizio a PCP
+servizio, comporta, trasmissione comunicazioni a nome nuovo RUP
+trasferimento, riguarda, tutti i lotti
+trasferimento, riguarda, contratti discendenti appalto origine
+RUP in carico, accede a, funzione Sostituzione RUP
+piattaforma, genera, documento Sostituzione RUP
+documento Sostituzione RUP, disponibile in, sezione Documenti
+trasferimento procedura, avviene in, fase gara o aggiudicazione proposta
+modifica RUP, richiede, motivazioni trasferimento
+nuovo RUP, riceve, notifica email
+nuovo RUP, trova, procedura da prendere in carico
+utente, filtra, procedure per stato affidamento
+trasferimento, avviene verso, RUP altro ente
+RUP in carico, usa, comando Trasferisci PDA
+comando Trasferisci PDA, genera, documento trasferimento
+documento trasferimento, richiede, informazioni obbligatorie
+documento trasferimento, puo essere, salvato
+documento trasferimento, puo essere, stampato
+documento trasferimento, puo essere, confermato
+RUP esecuzione, riceve, notifica email
+RUP esecuzione, accede a, gruppo funzionale
+RUP esecuzione, trova, procedura da prendere in carico
+RUP esecuzione, clicca su, Prendi in carico
+procedura, passa a, stato preso in carico
+trasferimento contratto, possibile in, fase stipula
+trasferimento contratto, possibile in, fase esecuzione
+RUP esecuzione, gestisce, contratto fino a conclusione
+sistema, propone, RUP indicato precedentemente
+RUP esecuzione, puo essere, utente altro ente
+sistema, richiede, conferma tramite messaggio
+RUP esecuzione, invia, contratto a fornitore
+presa in carico, comporta, trasferimento lotti e contratti
+trasferimento, possibile solo se, RUP esecuzione ha contratto in carico
+RUP esecuzione, accede a, gruppo Esecuzione
+RUP esecuzione, seleziona, funzione Trasferimento affidamento
+pagina trasferimento, elenca, affidamenti in carico
+pagina trasferimento, elenca, affidamenti assegnati da altri RUP
+affidamenti assegnati, hanno, stato da prendere in carico
+pagina trasferimento, ha, box ricerca per attributi
+utente, seleziona, elemento da trasferire
+utente, clicca su, Trasferisci
+documento trasferimento, consente, selezione nuovo RUP
+documento trasferimento, consente, inserimento allegati
+documento trasferimento, consente, inserimento note interne
+pagina dettaglio, ha, comando Conferma
+pagina dettaglio, ha, comando Chiudi
+comando Conferma, effettua, trasferimento
+trasferimento, possibile verso, RUP altro ente
+contratto, deriva da, gara su delega
+RUP esecuzione, riceve, notifica email
+RUP esecuzione, trova, contratto da prendere in carico
+RUP esecuzione, puo, accettare o rifiutare presa in carico
+presa in carico, comporta, invio a PCP
+invito a PCP, richiede, pochi secondi o minuti
+esito positivo, comporta, trasferimento contratto a nuovo RUP
+servizi PCP, inviati da, nuovo RUP
+trasferimento, impatta, tutti i contratti con stesso id appalto ANAC
+

@@ -1,0 +1,68 @@
+soggetto,relazione,oggetto
+modello offerta, e, documento di innovapuglia
+modello offerta, richiede autorizzazione per, divulgazione contenuti
+modello offerta, condiziona, richieste a rup oe utente aggiudicatario
+scelta modello offerta, avviene da, sezione prodotti per monolotto
+scelta modello offerta, avviene da, sezione lotti per multilotto
+per configurare modello, si seleziona, ambito e modello
+modello offerta, mostra, tabella attributi
+modello offerta, permette, uso modelli standard o personalizzati
+comando apri dettaglio modello, permette, modifica attributi e vincoli
+compilazione modello, consentita a, compilatore rup e referente tecnico
+modello offerta, esportabile in, formato xml
+modello offerta, include, informazioni non editabili
+configurazione modello offerta, avviene con, quattro tabelle
+tabella attributi da usare, elenca, attributi con caratteristiche e momento richiesta
+tabella elenco prodotti, include, colonne prodotti o lotti
+toolbar, fornisce, comandi gestione attributi
+toolbar, consente, aggiunta visualizzazione nascondenza colonne
+toolbar, permette, esportazione xls e spostamento colonne
+gestione attributi, consente, eliminazione attributo
+attrituto, puo essere, non eliminabile
+colonna attributo, specifica, tipologia informazione
+attrituti testuali, possono essere, non editabili
+configurazione modello, prevede, aggiunta attributi personalizzabili
+stazione appaltante, puo specificare, relazione tecnica
+comando aggiungi attributo, crea, nuova riga definizione attributo
+colonna descrizione attributo, permette, specifica nome visibile
+attrituti numerici, abilitano, campo numero decimali
+attrituti allegato, abilitano, campo firma e tipo file
+colonna lotto voce, consente, selezione righe per richiesta attributo
+configurazione voce, richiede, attributo per ogni prodotto
+configurazione lotto, richiede, attributo unico per tutti prodotti
+colonna lettura, indica, sola lettura
+colonna scrittura, indica, editabile non obbligatorio
+colonna obbligatorio, indica, da compilare obbligatoriamente
+colonna calcolato, indica, valore calcolato con formula
+colonna bando appalto specifico, indica, momento configurazione gara
+colonna attestato partecipazione, indica, momento generazione attestato
+colonna offerta tecnica, indica, momento compilazione busta tecnica
+colonna offerta economica, indica, momento compilazione busta economica
+sistema gare, fornisce, funzionalita configurazione modello offerta
+colonna conformita lista, indica, richiesta verifica conformita
+colonna contratto, visualizzata se, genera convenzione completa e impostato su no
+colonna richiedi firma, consente, richiesta firma digitale
+colonna tipo file, consente, definizione estensioni ammesse
+tabella attributi, predisposta per, fasi gara
+modelli, possono prevedere, importo sicurezza e importo opzioni
+importi, possono essere, aggiunti come attributi
+somma importi opzioni e sicurezza, deve corrispondere a, importi no ribasso
+tabella calcolo valore economico, definisce, valore complessivo offerta
+tabella calcolo valore economico, identifica, base asta
+valore economico finale, espresso in, euro
+selezione modello, determina, formula applicabile
+formula, calcola, valore economico su percentuale base asta
+tabella colonne calcolate, imposta, calcolo automatico attributo
+comando aggiungi calcolo, consente, inserimento descrizione e selezione attributo
+attrituti calcolabili, devono essere, di tipo numerico
+lente colonna apri, precompila, campi calcolo
+formula, deve contenere, solo attributi numerici
+operatori, possono essere, inseriti con tastiera
+formula, deve essere, verificata prima salvataggio
+pulsante ok, conferma, formula
+vincoli su attributi, definiti per, verifica condizioni compilazione
+comando aggiungi vincolo, consente, descrizione e selezione contesto
+formula vincolo, deve contenere, solo attributi numerici
+formula vincolo, verificata prima, salvataggio
+pulsante ok, conferma, vincolo
+comando conferma, consente, salvataggio modifiche

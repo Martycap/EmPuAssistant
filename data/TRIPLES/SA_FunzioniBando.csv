@@ -1,0 +1,59 @@
+soggetto,relazione,oggetto
+utente, accede, area riservata
+utente, seleziona, gruppo funzionale "Procedure di Gara"
+utente, clicca, "Bandi salvati e/o pubblicati - Avvisi - Bandi - Inviti"
+toolbar, contiene, comandi di gestione bando
+toolbar, contiene, comando "Funzioni"
+utente, apre, finestra delle funzioni
+utente, applica, funzionalita al bando
+funzione "Modifica del bando", modifica, informazioni del bando
+funzione "Rettifica", modifica, documenti allegati e date del bando
+funzione "Revoca di un lotto", revoca, lotti su un bando
+funzione "Revoca della gara", revoca, gara
+funzione "Proroga", proroga, date sul bando
+funzione "Sospensione della gara", sospende, procedura di gara
+funzione "Ripristino della gara", ripristina, procedura di gara sospesa
+funzione "Sostituzione del RUP", sostituisce, Responsabile Unico di Progetto
+funzione "Riammissione offerta", riapre, gara conclusa
+funzione "Assegna a", assegna, documento a collega
+sezione, contiene, tab Testata Referenti Note
+utente, modifica, sezione Testata
+utente, seleziona, comando "Rettifica"
+funzione "Rettifica", sospende, procedura di gara
+stato, diventa, "In rettifica"
+comando "Salva", salva, documento di rettifica
+comando "Invia", conferma, modifiche
+comando "Annulla", annulla, rettifica
+comando "Info Mail", visualizza, lista email
+comando "Procedura di Gara", mostra, dettaglio del bando
+comando "Esporta in xls", esporta, documento Excel
+utente, seleziona, "Aggiungi Allegato"
+utente, inserisce, atto da rettificare
+funzione "Revoca Lotto", richiede, motivazione
+funzione "Revoca Lotto", allega, documento di revoca
+EmPULIA, invia, scheda PCP
+EmPULIA, invia, change-notice a TED
+funzione "Proroga", richiede, nuove date e allegato
+utente, clicca, "Proroga" nella toolbar
+funzione "Proroga", cambia, stato documento in "Inviato"
+funzione "Sospensione", richiede, testo e allegato
+funzione "Sospensione", disabilita, invio offerte
+utente, clicca, comando "Sospensione Gara"
+funzione "Sospensione", cambia, stato in "Inviato"
+funzione "Ripristino Gara", modifica, termini bando
+funzione "Ripristino Gara", richiede, motivazione e allegato
+comando "Invio", pubblica, documento di ripristino
+funzione "Sostituzione RUP", trasmette, nuovo RUP alla PCP
+funzione "Riammissione Offerta", permette, invio offerta salvata
+funzione "Riammissione Offerta", invia, notifica a Operatore Economico
+funzione "Assegnare a", assegna, documento a utente
+utente, clicca, comando "Conferma"
+funzione "Esportazione Fascicolo", esporta, fascicolo allo stato attuale
+comando "Importa Documenti", carica, documenti non trasmissibili
+funzione "Avvisi", visualizza, avvisi del bando
+funzione "Esiti/Pubblicazioni", pubblica, risultati del bando
+funzione "Nuovo esito/pubblicazione", crea, nuovo esito
+comando "Elimina", elimina, esito pubblicato
+comando "Importa Documenti", importa, documenti della SA
+documenti pubblicati, includono, proroghe revoca rettifiche modifiche
+funzione "Limitazione accesso", nasconde, curricula dopo 5 anni

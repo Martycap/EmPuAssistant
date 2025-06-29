@@ -1,0 +1,55 @@
+soggetto,relazione,oggetto
+documento, fornisce, istruzioni per registrazione OE
+OE, deve, registrarsi alla piattaforma EmPULIA
+OE, fornisce, dati identificativi nella registrazione
+registrazione, consente, accesso alla piattaforma
+registrazione, non implica, abilitazione a albi o mercati
+impresa, e' responsabile, veridicita dei dati inseriti
+utente, deve, accettare trattamento dati personali
+utente, deve, firmare documento digitalmente
+registrazione, produce, credenziali di accesso
+utente, riceve, codice accesso nome utente password
+accesso, richiede, inserimento credenziali
+attivita bloccante, e', cambio password
+utente, puo usare, SPID
+utente, puo usare, CIE
+utente, puo usare, CNS
+utente, puo usare, IAM
+utente, puo, recuperare password
+utente, puo, recuperare codice accesso e nome utente
+utente, puo, modificare i propri dati
+utente, accede, sezione Utility Utente
+scheda utente, contiene, comandi gestione utenza
+sezione storico, registra, azioni compiute da utente
+azienda, accede, anagrafica
+anagrafica, contiene, dati aziendali e di contatto
+sezione utenti, mostra, utenti associati a OE
+sezione storico, mostra, variazioni su anagrafica OE
+sezione documentazione, elenca, documenti allegati
+sezione abilitazioni, mostra, abilitazioni a mercati e albi
+OE, puo essere, iscritto
+OE, puo essere, sospeso
+OE, puo essere, cancellato
+OE iscritto, puo, partecipare a gare
+OE sospeso, puo, partecipare a gare invitate
+sezione classi iscrizione, elenca, classi abilitate OE
+sezione DGUE, mostra, DGUE inviati da OE
+gestione anagrafiche, consente, modifica dati OE
+OE, accede, gestione anagrafiche
+variazione anagrafica, ha stato, in lavorazione
+variazione anagrafica, ha stato, in valutazione
+variazione anagrafica, ha stato, accettato
+variazione anagrafica, ha stato, rifiutato
+OE, deve, firmare digitalmente documento variazione
+utente, puo, eliminare richiesta variazione
+amministratore OE, puo, creare utenti con profilo responsabile ordinativi
+utente, ha, nome utente
+utente, ha, qualifica
+utente, ha, telefono
+utente, ha, email
+utente, ha, stato utenza
+OE, puo, creare nuovo utente
+nuovo utente, creato con, stato attivo
+utente abilitato, puo, modificare altri utenti
+utente, puo, essere associato a profilo responsabile ordinativi
+utente, puo, eliminare profilo responsabile ordinativi

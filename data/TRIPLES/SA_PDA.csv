@@ -1,0 +1,103 @@
+soggetto,relazione,oggetto
+piattaforma empulia, consente, richiesta cig derivati in interoperabilita
+guida rapida, descrive, passaggi per ottenere cig in interoperabilita
+pi, configura, odf
+pi, non ha accesso, menu gestione pcp
+pi, invia, odf
+po, verifica, contenuto odf
+po, richiede, cig
+po, firma digitalmente, odf
+po, invia, odf al fornitore
+intestazione odf, contiene, parametri pcp
+parametri da compilare, includono, scheda pcp
+parametri da compilare, includono, stato pcp
+parametri da compilare, includono, cig master
+parametri da compilare, includono, utente rup
+po, deve essere profilato, rup
+pi, puo inviare, odf in approvazione
+po, invia, schede a pcp di anac
+po, utilizza, comando conferma appalto
+conferma appalto, e, servizio asincrono
+rup, puo richiedere, cig derivato extra empulia
+cig derivato, puo essere inserito, manualmente
+piattaforma, avvisa, utente
+ordinativo, e disconnesso, pcp
+menu gestione pcp, non disponibile, cig inserito manualmente
+odf, non piu in lavorazione, menu gestione pcp disponibile
+odf, inviato in approvazione, non piu possibile attivare o disattivare cig
+manuale, descrive, modalita per indire rilancio competitivo
+manuale, descrive, modalita per configurare rilancio competitivo
+configurazione rilancio competitivo, segue, regole delle procedure telematiche
+utente, deve avere, profilo abilitato
+profilo abilitato, assegnato da, amministratore sistema
+utente, accede, funzione rilanci competitivi
+utente, seleziona, riga
+utente, clicca, comando crea rilancio competitivo
+documento rilancio competitivo, composto da, toolbar comandi
+documento rilancio competitivo, composto da, intestazione con dati procedura
+intestazione, contiene, scheda pcp associata
+sezione interoperabilita, contiene, informazioni per pcp
+sezione interoperabilita, contiene, informazioni per ted
+aree e richieste, variano, tipologia procedura
+aree e richieste, variano, settore
+aree e richieste, variano, ambito
+aree e richieste, variano, schede pcp
+sezione criteri valutazione, consente, configurare parametri richiesti
+sezione criteri valutazione prevalenti, consente, configurare parametri richiesti
+punteggio tecnico, puo essere, ereditato
+gestore aq, definisce, valori ereditarieta punteggio
+valore ereditarieta, definito da, rup rilancio competitivo
+oe, partecipa, rilancio competitivo
+criteri ereditati, possono essere, esclusi dal calcolo
+esclusione criteri, aggiorna, peso punteggio tecnico
+gara istitutiva, pubblicata prima, attivazione funzionalita piattaforma
+sezione destinatari, mostra, elenco invitati
+elenco invitati, non puo essere, modificato
+graduatoria, definita in, gara istitutiva
+sezioni aggiuntive, descritte in, manuale procedura appalto specifico
+sezioni aggiuntive, non prevedono, regole eccezionali
+manuale, illustra, funzionalita per creazione e stipula contratto
+invio schede anac, avviene tramite, modulo gestione contratto
+modulo gestione contratto, comunica, sistema interoperabilita pcp
+condizione gestione contratto, include, comunicazione esito definitivo
+condizione gestione contratto, include, trasmissione scheda aggiudicazione
+scheda aggiudicazione, pubblicata su, pcp di anac
+sezione area riservata, contiene, voce aggiudicazioni in attesa di contratto
+aggiudicazioni in attesa di contratto, ordinate per, data comunicazione
+aggiudicazione, ha, documento aggiudicazione
+documento aggiudicazione, genera, contratto
+contratto, e, indipendente
+operatori economici, possono avere, contratti multipli
+aggiudicazioni, selezionate da, utente
+utente, clicca, comando contratto
+contratto, spostato in, sezione contratti
+toolbar contratto, include, comandi gestione documento
+campo dec, e, obbligatorio
+campo aggiudicatario, richiede, codice fiscale
+compilazione contratto, richiede, oggetto contratto
+campo valore contratto, consente, modifica importi
+tabella elenco documenti, include, documento contratto
+utente, seleziona, modalita firma
+contratto, inviato a, fornitore
+firmatario, invia, contratto in approvazione
+contratto, ha, stati
+contratto, e considerato perfezionato, caricamento documento firmato
+tabella cronologia, mostra, storico operazioni
+visualizzazione contratti, possibile da, utenti con ruoli specifici
+filtro contratti, consente, ricerche per criteri
+selezione listino, mostra, elenco prodotti/servizi
+sistema, verifica, errori informazioni
+utente, puo eliminare, prodotto o servizio
+sistema, genera, testo contrattuale
+documento, modificabile prima di, archiviazione
+utente, puo, rilasciare documento
+sezione fatturazione, puo essere, modificata
+sezioni contratto, personalizzabili tramite, tabella strumenti
+documento, generabile in, formato pdf
+documento firmato, allegato a, sistema
+contratto, modificabile tramite, modifica contratto
+modifica contratto, non invia, scheda pcp anac
+sistema, trasmette, scheda sc1
+sistema, trasmette, scheda s3
+trasmissione schede, avviene, in automatico
+supporto, richiede, file json richiesta errore

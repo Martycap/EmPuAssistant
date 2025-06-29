@@ -1,0 +1,28 @@
+soggetto,relazione,oggetto
+EmPULIA, consente, richiedere CIG derivati in interoperabilita
+guida rapida, descrive, passaggi per ottenere CIG
+PI, configura, OdF
+PI, non ha accesso, menu Gestione PCP
+PI, invia, OdF al PO
+PO, verifica, contenuto OdF
+PO, richiede, CIG
+PO, firma digitalmente, OdF
+PO, invia, OdF al fornitore
+OdF, contiene, parametri richiesti da PCP
+parametri, includono, Scheda PCP
+parametri, includono, Stato PCP
+parametri, includono, CIG Master
+parametri, includono, Utente RUP
+PO, deve essere profilato, RUP
+PI, invia, OdF in approvazione al PO
+PO, invia, schede a PCP
+PO, utilizza, comando Conferma Appalto
+Conferma Appalto, richiede, tempi di attesa
+RUP, puo richiedere, CIG derivato extra piattaforma
+utente, inserisce manualmente, CIG derivato
+piattaforma, avvisa, utente
+ordinativo, e disconnesso da, PCP
+menu Gestione PCP, non disponibile per, CIG inserito manualmente
+menu Gestione PCP, disponibile quando, OdF non e piu in lavorazione
+utente, puo procedere, richiesta interoperabilita
+CIG, non puo essere, attivato o disattivato manualmente dopo invio OdF

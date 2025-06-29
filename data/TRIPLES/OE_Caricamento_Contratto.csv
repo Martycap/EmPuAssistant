@@ -1,0 +1,72 @@
+soggetto,relazione,oggetto
+Manuale, descrive, gestione contratto per Operatori Economici
+Stazione Appaltante, invia, richiesta stipula contratto
+Stazione Appaltante, invia, email notifica
+Email notifica, contiene, riepilogo gara
+Email notifica, invita, accesso Area Riservata
+Operatore Economico, visualizza, contratto
+Operatore Economico, accede a, Area Riservata
+Operatore Economico, clicca su, oggetto contratto
+Operatore Economico, seleziona, gruppo funzionale Contratti
+Operatore Economico, accede a, Elenco Contratti
+Elenco Contratti, mostra, contratti confermati
+Elenco Contratti, mostra, contratti inviati
+Contratto, contiene, Registro di Sistema
+Contratto, contiene, Data invio
+Contratto, contiene, Amministrazione Aggiudicatrice
+Contratto, contiene, Aggiudicatario
+Operatore Economico, clicca su, Prendi In Carico
+Contratto, puo includere, piu lotti
+Elenco Documenti, riassume, informazioni contratto
+Elenco Documenti, evidenzia, Firme Richieste
+Operatore Economico, scarica, file contratto
+Operatore Economico, firma, file digitalmente
+Operatore Economico, allega, documento firmato
+Stazione Appaltante, allega, altri documenti
+Documento, indica, tipologia firma richiesta
+Operatore Economico, clicca su, Conferma
+Comando Conferma, attivato dopo, presa in carico
+Comando Conferma, attivato se, contratto scaricato e firmato
+Operatore Economico, clicca su, Rifiuta
+Operatore Economico, inserisce, motivazione rifiuto
+Cronologia, mostra, storico operazioni contratto
+Gruppo funzionale Contratti, consente, visualizzare contratti ricevuti
+Gruppo funzionale Contratti, consente, visualizzare contratti confermati
+Gruppo funzionale Contratti, consente, visualizzare contratti rifiutati
+Gruppo funzionale Contratti, consente, visualizzare ordinativi fornitura
+Gruppo funzionale Contratti, consente, visualizzare documenti rinnovo
+Gruppo funzionale Contratti, consente, visualizzare documenti estensione
+Operatore Economico, clicca su, Elenco Contratti
+Gestione Contratti, consente, ricerca personalizzata
+Ricerca personalizzata, filtra per, Registro di Sistema Contratto
+Ricerca personalizzata, filtra per, Oggetto
+Ricerca personalizzata, filtra per, Tipo Contratto
+Ricerca personalizzata, filtra per, Stato
+Operatore Economico, stampa, lista contratti
+Operatore Economico, esporta, lista contratti in Excel
+Tabella riassuntiva, mostra, Registro di Sistema Contratto
+Tabella riassuntiva, mostra, Amministrazione Aggiudicatrice
+Tabella riassuntiva, mostra, Oggetto
+Tabella riassuntiva, mostra, Valore Contratto
+Tabella riassuntiva, mostra, Data Invio Contratto
+Tabella riassuntiva, mostra, Stato
+Contratto, ha stato, Inviato
+Contratto, ha stato, Confermato
+Contratto, ha stato, Rifiutato
+Operatore Economico, clicca su, icona contratto
+Operatore Economico, visualizza, contenuto contratto
+Gestione Rinnovi ed Estensioni, accessibile da, sezione Contratto
+Sezione Contratto, consente, visualizzare documenti rinnovo
+Sezione Contratto, consente, visualizzare documenti estensione
+Toolbar, consente, eseguire ricerche
+Toolbar, consente, stampare lista documenti
+Toolbar, consente, esportare documenti in Excel
+Tabella riassuntiva, mostra, documenti rinnovo ed estensione
+Documenti rinnovo ed estensione, contengono, Registro di Sistema Contratto
+Documenti rinnovo ed estensione, contengono, Tipo Documento
+Documenti rinnovo ed estensione, contengono, Oggetto
+Documenti rinnovo ed estensione, contengono, Data Invio
+Documenti rinnovo ed estensione, contengono, Registro di Sistema
+Documenti rinnovo ed estensione, contengono, Stato
+Stato, puo essere, Confermato
+Operatore Economico, clicca su, Vedi

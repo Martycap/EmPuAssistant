@@ -1,0 +1,157 @@
+soggetto,relazione,oggetto
+Manuale, descrive, gestione convenzioni
+Manuale, descrive, gestione listini
+Manuale, descrive, gestione ordinativi
+Gruppo funzionale, contiene, Negozio Elettronico
+Negozio Elettronico, disponibile in, Area Riservata
+Referente Convenzione, ha accesso a, tutte funzionalita
+Responsabile Ordinativi, ha accesso a, monitoraggio convenzioni
+Responsabile Ordinativi, ha accesso a, monitoraggio ordinativi
+Gestione convenzioni, inizia con, inserimento convenzione
+Sistema, invia, notifica email a Referente Convenzione
+Referente Convenzione, visualizza, convenzione
+Referente Convenzione, conferma, convenzione
+Referente Convenzione, rifiuta, convenzione
+Convenzione, visibile in, Lista Attivita
+Convenzione, visibile in, sezione Convenzioni
+Sezione Convenzioni, contiene, toolbar
+Toolbar, consente, ricerca
+Toolbar, consente, stampa
+Toolbar, consente, esportazione xlsx
+Tabella Convenzioni, mostra, stato convenzione
+Stato convenzione, puo essere, inviato
+Stato convenzione, puo essere, in lavorazione
+Stato convenzione, puo essere, confermato
+Stato convenzione, puo essere, rifiutato
+Operatore Economico, rifiuta, convenzione
+Utente, clicca su, comando Dettaglio
+Utente, visualizza, documento convenzione
+Toolbar, contiene, Salva
+Toolbar, contiene, Conferma
+Toolbar, contiene, Rifiuta
+Toolbar, contiene, Prendi in Carico
+Toolbar, contiene, Rilascia
+Toolbar, contiene, Stampa
+Toolbar, contiene, Esporta in xls
+Toolbar, contiene, Chiudi
+Intestazione documento, contiene, utente in carico
+Intestazione documento, contiene, compilatore
+Intestazione documento, contiene, registro sistema
+Intestazione documento, contiene, data invio
+Intestazione documento, contiene, stato
+Sezione Anagrafiche, contiene, ente
+Sezione Anagrafiche, contiene, fornitore
+Sezione Dettagli, contiene, informazioni convenzione
+Sezione Lista documenti, contiene, documenti collegati
+Sezione Cronologia, contiene, storico operazioni
+Operatore Economico, scarica, allegati firmati
+Operatore Economico, firma, file digitalmente
+Operatore Economico, carica, file firmati
+Operatore Economico, inserisce, motivazione rifiuto
+Convenzione, cambia stato, rifiutato
+Amministrazione, crea, convenzione urgenza
+Convenzione urgenza, subordinata a, conferma listino
+Richiesta caricamento OE, avviene dopo, invio listino
+Amministrazione, pubblica, convenzione
+Listino, puo contenere, beni o servizi
+Listino, puo contenere, comunicazione esito definitivo
+Funzione Rinnovi/Estensioni, consente, visualizzare rinnovi convenzioni
+Funzione Rinnovi/Estensioni, consente, visualizzare estensioni convenzioni
+Referente Convenzione, riceve, notifica email
+Estensione, contiene, nuovo valore convenzione
+Estensione, contiene, ripartizione per lotto
+Rinnovo, contiene, nuova data scadenza
+Rinnovo, contiene, note amministrazione
+Utente, accede a, Area Riservata
+Utente, clicca su, Rinnovi/Estensioni
+Funzione Listini, consente, visualizzare elenco listini
+Referente Convenzione, visualizza, listino
+Referente Convenzione, conferma, listino
+Referente Convenzione, rifiuta, listino
+Listino, visibile in, Lista Attivita
+Listino, visibile in, sezione Listini
+Toolbar, contiene, Apre/Chiude
+Toolbar, contiene, Stampa
+Toolbar, contiene, Esporta in xls
+Tabella Listini, mostra, Convenzione
+Tabella Listini, mostra, Numero Convenzione
+Tabella Listini, mostra, Ordinativo Integrativo
+Tabella Listini, mostra, Nome
+Tabella Listini, mostra, Data Invio
+Tabella Listini, mostra, Registro di Sistema
+Tabella Listini, mostra, Stato
+Stato listino, puo essere, Inviato
+Gestione Listini, include, inserimento
+Gestione Listini, include, conferma
+Gestione Listini, include, rifiuto
+Gestione Listini, include, operazioni
+Sezione Prodotti, elenca, articoli listino
+Compilazione listino, puo avvenire, direttamente a sistema
+Compilazione listino, puo avvenire, tramite template xlsx
+Sistema, controlla, compilazione file Excel
+Sistema, segnala, anomalie
+Operatore Economico, corregge, riga prodotto
+Operatore Economico, genera, PDF
+Operatore Economico, firma, PDF
+Operatore Economico, allega, PDF firmato
+Operatore Economico, modifica, informazioni listino
+Operatore Economico, inserisce, motivazione rifiuto
+Utente, clicca su, Monitoraggio Convenzioni
+Tabella, mostra, Convenzione
+Tabella, mostra, Numero Convenzione
+Tabella, mostra, Scadenza
+Tabella, mostra, Totale Ordinato
+Tabella, mostra, Residuo Convenzione
+Stato convenzione, puo essere, Pubblicato
+Stato convenzione, puo essere, Chiuso
+Sezione Prodotti, elenca, articoli listino
+Sezione Ripartizione, fornisce, valore per lotto
+Lista documenti, contiene, documenti convenzione
+Referente Convenzione, riceve, notifica ordinativo
+Responsabile Ordinativi, riceve, notifica ordinativo
+Ordinativo, visibile in, Lista Attivita
+Ordinativo, visibile in, Ordinativi di fornitura
+Ordinativi di fornitura, contiene, area filtro
+Ordinativi di fornitura, contiene, toolbar
+Toolbar, consente, Esporta in xls
+Toolbar, consente, Stampa
+Tabella Ordinativi, mostra, stato documento
+Tabella Ordinativi, mostra, titolo ordinativo
+Tabella Ordinativi, mostra, registro sistema
+Tabella Ordinativi, mostra, numero convenzione
+Tabella Ordinativi, mostra, data inizio
+Tabella Ordinativi, mostra, data scadenza
+Tabella Ordinativi, mostra, convenzione riferimento
+Tabella Ordinativi, mostra, totale ordinativo
+Tabella Ordinativi, mostra, ente emittente
+Stato ordinativo, puo essere, inviato
+Stato ordinativo, puo essere, accettato
+Stato ordinativo, puo essere, rifiutato
+Stato ordinativo, puo essere, annullato
+Operatore Economico, clicca su, oggetto ordinativo
+Gestione Ordinativi, presenta, toolbar
+Toolbar, contiene, Accetta
+Toolbar, contiene, Rifiuta
+Toolbar, contiene, Prendi in Carico
+Toolbar, contiene, Rilascia
+Toolbar, contiene, Assegna a
+Toolbar, contiene, Stampa
+Toolbar, contiene, Esporta in Excel
+Comando Prendi in Carico, blocca, lavorazione ad altri utenti
+Comando Prendi in Carico, compila, nominativo compilatore
+Comando Rilascia, consente, lasciare lavorazione
+Comando Assegna a, consente, assegnare a utente specifico
+Tabella articoli, mostra, oggetto ordinativo
+Ente, inserisce, note
+Note, obbligatorie in, rifiuto ordinativo
+Cronologia, contiene, storico ordinativo
+Operatore Economico, clicca su, Accetta
+Operatore Economico, clicca su, Rifiuta
+Operatore Economico, riceve, email notifica
+Email notifica, contiene, note inserite
+Ordinativo annullato, notificato con, email
+Utente, accede a, Comunicazione annullamento ordinativo
+Utente, accede a, sezione Ricevute
+Utente, clicca su, Vedi
+Schermata dettaglio, mostra, motivazione annullamento
+Schermata dettaglio, mostra, allegati ente

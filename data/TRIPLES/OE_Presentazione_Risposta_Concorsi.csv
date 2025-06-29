@@ -1,0 +1,61 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per invio risposta a concorsi
+operatore economico, deve essere, registrato alla piattaforma
+operatore economico, accede a, area riservata
+concorso, configurato con, lotto singolo
+idee, valutate in, anonimato
+progetti, valutati in, anonimato
+concorso, accessibile a, soggetti invitati in seconda fase
+operatore economico, visualizza concorso con, comando Vedi
+dettaglio concorso, mostra, informazioni necessarie
+operatore economico, partecipa a concorso con, comando Partecipa
+operatore economico, invia quesito con, comando dedicato
+quesito, inviato in, forma anonima
+sistema, invia, email di notifica con riepilogo chiarimento
+sezione chiarimenti, mostra, quesiti e risposte
+utente, puo, generare pdf dei chiarimenti
+sezione offerta, composta da, sezioni con stato compilazione
+toolbar, contiene, comandi di gestione offerta
+busta documentazione, richiede, dichiarazione forma partecipazione
+busta documentazione, richiede, compilazione DGUE
+busta documentazione, richiede, allegati amministrativi
+forma partecipazione, puo essere, singola o associata
+RTI o RT, puo, variare nella seconda fase
+capofila, non puo essere, modificato nella seconda fase
+piattaforma, consente, variazioni RTI o RT
+stazione appaltante, puo richiedere, documentazione obbligatoria
+stazione appaltante, puo richiedere, firma digitale documenti
+sistema, controlla, firma digitale allegati
+sistema, segnala, anomalie documentali
+utente, compila DGUE con, comando Compila DGUE
+utente, carica, allegato con comando dedicato
+estensione file, indicata in, colonna Tipo File
+utente, elimina, allegato non obbligatorio con icona bidone
+utente, verifica, compilazione busta amministrativa
+sistema, mostra, messaggio anomalie se presenti
+busta documentazione, presenta anomalie se, DGUE mancante
+operatore economico, puo caricare, documenti aggiuntivi
+documentazione amministrativa, accessibile a, SA solo dopo graduatoria
+documentazione tecnica, semplificata in, concorsi idee e progettazione
+partecipante, carica, allegati richiesti
+partecipante, anonimizza, file PDF
+sistema, indica, obbligatorieta e richiesta firma digitale
+sezione busta tecnica, contiene, tabella allegati
+utente, verifica, compilazione busta tecnica
+sistema, conferma, invio se nessuna anomalia
+piattaforma, richiede, conferma invio in caso di anomalie non bloccanti
+utente, salva, offerta per completare successivamente
+utente, elimina, offerta in lavorazione
+documento, cambia stato in, annullato
+utente, riceve, messaggio conferma annullamento
+utente, crea nuovo documento con, comando Partecipa
+utente, visualizza offerta con, gruppo funzionale dedicato
+offerta, gestita da, piu utenti dello stesso OE
+offerta, assegnata a, altro utente con comando Assegna a
+utente, ritira risposta con, comando Ritira Risposta
+comando Ritira Risposta, attivato, dopo invio offerta
+comunicazioni, gestite come, gare telematiche
+SA e Commissione, non conoscono, mittenti prima di scioglimento anonimato
+seduta virtuale, oscura, nominativi partecipanti
+SA, sblocca, buste amministrative
+nominativi, visibili, dopo associazione idea autore

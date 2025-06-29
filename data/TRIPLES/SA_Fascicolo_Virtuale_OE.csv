@@ -1,0 +1,81 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per utilizzo fascicolo virtuale
+fascicolo virtuale, consente, verifica requisiti partecipazione
+manuale, contiene, sezioni
+sezione introduzione, spiega, funzionamento fascicolo virtuale
+sezione fvoe, fornisce, legenda termini
+sezione richieste accesso, spiega, come accedere e inviare documenti
+sezione documenti, elenca, documenti da presentare
+funzione richiesta accesso, consente, autorizzazione fascicoli
+utente, accede, area riservata
+utente, seleziona, gruppo funzionale fascicolo virtuale
+pagina dettaglio, presenta, area filtro richieste
+documento accesso, ha stato, in lavorazione
+documento accesso, ha stato, inviata
+documento accesso, ha stato, approvata
+documento accesso, ha stato, rifiutata
+toolbar, contiene, comando nuova richiesta accesso
+toolbar, contiene, comando esporta in xlsx
+tabella, visualizza, richieste di accesso
+tabella, mostra, titolo appalto
+tabella, mostra, stato richiesta
+tabella, mostra, operatori economici
+colonna operatori economici, mostra, primi cinque destinatari
+comando mostra tutti, apre, elenco completo destinatari
+comando verifica richiesta accesso, attiva, dopo compilazione documento
+documenti oggetto gara, sono visibili, se richiesta approvata
+campo chiudi, consente, tornare alla pagina precedente
+per inviare richiesta, necessario, compilare campi obbligatori
+sistema, applica, limitazioni procedure multilotto
+sistema, richiede, inserimento id appalto anac
+comando ricerca, consente, selezionare appalto interesse
+campo titolo appalto, si popola, automaticamente
+campo operatori economici, si popola, dopo selezione id appalto
+campo operatori economici, mostra, partecipanti da schede pcp
+lista operatori economici, si filtra, per ragione sociale
+utente, seleziona, operatori economici autorizzazione accesso
+comando invio, invia, richiesta accesso
+tabella cronologia pcp, mostra, servizi richiesti anac
+storico chiamate, si filtra, per operatore economico
+operatore economico, autorizza, accesso tramite servizio fvoe
+procedura accesso, prevede, autorizzazione anac
+utente, riceve, email di conferma autorizzazione
+operatore economico, riceve, invito al servizio documenti fvoe
+servizio documenti fvoe, fornisce, lista documenti
+servizio recupero, scarica, documenti nella cartella controlli
+operatore economico, richiama, servizio recupero
+utente, accede, funzionalita documenti fvoe
+pagina dettaglio, presenta, area filtro documenti
+tabella, mostra, procedure con documenti disponibili
+tabella, mostra, id appalto anac
+tabella, mostra, titolo appalto
+tabella, mostra, operatori economici
+comando apri, apre, dettaglio documentazione
+sezione testata, contiene, informazioni procedura
+lista documenti, contiene, tipo documento
+lista documenti, contiene, stato documento
+lista documenti, contiene, id documento
+lista documenti, contiene, codice fiscale persona
+comando esporta in xlsx, consente, scaricare lista documenti
+sistema, consente, accedere ai dettagli documento
+sistema, consente, scaricare documento
+sistema, consente, richiedere documento mancante
+tabella, mostra, stato documento
+stato documento, puo essere, in attesa
+stato documento, puo essere, non recuperato
+stato documento, puo essere, recuperato
+stato documento, puo essere, errore
+stato documento, puo essere, max retry raggiunto
+sezione testata, contiene, informazioni non editabili
+cronologia, mostra, chiamate per recupero documento
+comando richiedi, consente, richiesta documenti mancanti
+sistema, richiede, inserimento dati documento
+tempo attesa, non dipende, da piattaforma empulia
+tabella tipi documenti, identifica, ente certificante
+sistema, richiede, documenti per accesso fascicolo virtuale
+documenti richiesti, variano, in base a tipo richiesta
+per comunicazione antimafia, necessario, inserire soggetti da verificare
+per costo personale, richiesto, matricolo e anno
+per anagrafe sanzioni, necessario, inserire dati ente
+per dati reddituali, richiesto, anno e codice catastale
+per casellario giudiziario, necessario, inserire dati soggetti

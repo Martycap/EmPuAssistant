@@ -1,0 +1,57 @@
+soggetto,relazione,oggetto
+piattaforma empulia, gestisce, calcolo anomalia
+calcolo anomalia, influenzato da, parametri configurati in gara
+calcolo anomalia, influenzato da, criteri di aggiudicazione
+calcolo anomalia, influenzato da, soglia
+calcolo anomalia, influenzato da, ambito
+piattaforma, esegue, esclusione automatica
+esclusione automatica, applicata a, gare sottosoglia ppb
+esclusione automatica, applicata a, ambito lavori pubblici
+esclusione automatica, applicata a, ambito servizi
+esclusione automatica, usa, metodo a
+esclusione automatica, usa, metodo b
+esclusione automatica, usa, metodo c
+piattaforma, non esegue, esclusione automatica per gare sopra soglia
+piattaforma, consente, valutazione manuale
+piattaforma, consente, valutazione automatica
+metodo c, richiede, inserimento sconto di riferimento
+metodo c, non disponibile per, sorteggio ex post
+piattaforma, fornisce, esclusione automatica
+piattaforma, fornisce, valutazione
+piattaforma, fornisce, modalita manuale
+offerta con ribasso oltre soglia, riceve stato, offerta anomalo
+offerta anomalo, visibile in, tabella riepilogativa
+commissione, non puo modificare, stato offerte anomale
+commissione, puo assegnare, stato offerta anomalo
+commissione, puo assegnare, stato verifica superata
+metodo a, usato per, gare al ppb
+metodo quattro quinto, usato per, gare oepv
+piattaforma, segnala, sospetta anomalia
+commissione, puo assegnare, stato sospetta anomalia
+commissione, puo assegnare, stato verifica superata
+piattaforma, non effettua, calcolo automatico in modalita manuale
+commissione, assegna manualmente, stato sospetta anomalia
+commissione, assegna manualmente, stato verifica superata
+opzione calcolo anomalia, definita in, configurazione gara
+opzione calcolo anomalia, dipende da, tipo di gara
+opzione calcolo anomalia, dipende da, ambito
+opzione calcolo anomalia, dipende da, criterio di aggiudicazione
+se opzione calcolo anomalia uguale no, piattaforma, non calcola anomalia
+opzione offerte anomale, bloccata su, esclusione automatica per gare ppb servizi o lavori
+compilatore, sceglie, metodo di calcolo
+se metodo c scelto, compilatore, inserisce sconto di riferimento
+se opzione offerte anomale uguale manuale, non necessario, configurare metodo calcolo
+se opzione offerte anomale uguale valutazione, necessario, indicare metodo calcolo
+metodo a, assegnato a, gare al ppb
+metodo quattro quinto, assegnato a, gare oepv
+se metodo diverso da a o quattro quinto, necessario, valutazione manuale
+se metodo diverso da a o quattro quinto, possibile, disattivare calcolo anomalia
+per gare oepv, necessario, definire modalita calcolo pt e pe
+punteggio tecnico, definito, prima o dopo riparametrazione
+punteggio economico, definito, prima o dopo riparametrazione
+piattaforma, condivide, criteri calcolo con societa acquisto
+piattaforma, usa, regole per calcolo automatico
+regole calcolo automatico, includono, arrotondamenti
+regole calcolo automatico, includono, riportazione a campo decimal
+regole calcolo automatico, includono, registrazione info intermedie
+in caso di contestazioni, info calcolo anomalia, registrate in struttura opportuna

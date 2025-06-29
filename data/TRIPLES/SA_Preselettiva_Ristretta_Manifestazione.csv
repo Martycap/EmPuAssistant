@@ -1,0 +1,115 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per indizione preselettiva
+manuale, fornisce, istruzioni per manifestazione interesse
+procedura gara ristretta, composta da, fase preselettiva
+procedura gara ristretta, composta da, fase invito
+fase preselettiva, configurata tramite, intestazione
+fase preselettiva, configurata tramite, testata
+fase preselettiva, configurata tramite, atti
+fase preselettiva, configurata tramite, informazioni tecniche
+fase preselettiva, configurata tramite, busta documentazione
+fase preselettiva, configurata tramite, riferimenti
+fase preselettiva, configurata tramite, note
+fase preselettiva, configurata tramite, cronologia
+fase preselettiva, configurata tramite, documenti
+fase preselettiva, configurata tramite, domande ricevute
+fase preselettiva, configurata tramite, allegati
+gara ristretta, puo avere, stato in lavorazione
+gara ristretta, puo avere, stato in approvazione
+gara ristretta, puo avere, stato pubblicato
+gara ristretta, puo avere, stato presentazione offerte
+gara ristretta, puo avere, stato rifiutato
+gara ristretta, puo avere, stato in esame
+gara ristretta, puo avere, stato in aggiudicazione
+gara ristretta, puo avere, stato in rettifica
+gara ristretta, puo avere, stato rettificato
+gara ristretta, puo avere, stato revocato
+gara ristretta, puo avere, stato chiuso
+nuova procedura, avviata con, comando nuova procedura
+wizard, richiede, tipo appalto
+wizard, richiede, tipo procedura
+wizard, richiede, tipo documento
+wizard, richiede, divisione in lotti
+wizard, richiede, criterio aggiudicazione
+wizard, richiede, conformita
+conformita tecnica, effettuata in, fase ex-ante
+conformita tecnica, effettuata in, fase ex-post
+offerta economica, espressa in, prezzo
+offerta economica, espressa in, percentuale
+graduatoria, ordinata in, ordine crescente
+graduatoria, ordinata in, ordine decrescente
+campi da compilare, includono, importo base asta
+campi da compilare, includono, importo opzioni
+campi da compilare, includono, oneri sicurezza
+importo appalto, calcolato automaticamente, sistema
+manifestazione interesse, creata da, area riservata
+manifestazione interesse, creata con, comando nuova procedura
+sezione conformita, presente in, gare al ppb
+sezione conformita, consente, scelta tra no ex-ante ex-post
+sezione criterio formulazione offerta, consente, scelta tra prezzo percentuale
+sezione intestazione, include, titolo documento
+sezione intestazione, visibile da, utenti sa
+sezione testata, include, dati informativi
+enti abilitati, indicano, ente proponente
+ente appaltante, seleziona, rup
+sezione dati informativi, include, atto indizione
+sezione dati informativi, include, data indizione
+sezione dati informativi, include, cig
+sezione dati informativi, include, cup
+sezione dati informativi, include, oggetto procedura
+informazioni aggiuntive, includono, appalto verde
+informazioni aggiuntive, includono, appalto sociale
+informazioni aggiuntive, includono, appalto emergenza
+informazioni aggiuntive, includono, appalto pnrr
+campi importi, modificabili in, configurazione procedura
+campi importi, includono, iva
+campi importi, includono, descrizione opzioni
+sezione termini, richiede, date calendarizzazione
+date calendarizzazione, includono, inizio presentazione
+date calendarizzazione, includono, termine richiesta quesiti
+date calendarizzazione, includono, termine risposta quesiti
+date calendarizzazione, includono, termine presentazione risposte
+date calendarizzazione, includono, data presunta
+richiesta campionatura, indica, invio campioni
+tipo soggetto, specifica, operatori economici
+tipo aggiudicazione, consente, scelta numero aggiudicatari
+sezione parametri, include, attestazione partecipazione
+sezione parametri, include, visualizzazione notifiche
+sezione parametri, include, richiesta documentazione
+sezione parametri, include, accordo servizio
+sezione parametri, include, destinatari notifica
+sezione parametri, include, numero massimo lotti
+sezione atti, include, documentazione gara
+sezione atti, consente, upload documenti
+upload documenti, effettuato tramite, comando inserisci atti
+documenti, categorizzati per, tipo procedura
+sezione informazioni tecniche, include, suddivisione importi
+informazioni tecniche, includono, luogo istat
+informazioni tecniche, includono, codice cpv
+sezione busta documentazione, include, documento dgue
+dgue, richiesto a, operatori economici
+sezione busta documentazione, include, autodichiarazione
+documentazione amministrativa, etichettata come, obbligatoria o facoltativa
+documentazione amministrativa, puo richiedere, firma digitale
+firma digitale, impostata come, facoltativa
+tipo file ammesso, definito tramite, comando tipo file
+sezione riferimenti, include, utenti gestione chiarimenti
+sezione riferimenti, include, utenti visualizzazione procedura
+tabella utenti, prevede, ruolo quesiti
+ruolo quesiti, consente, gestione chiarimenti
+ruolo bando, consente, visualizzazione procedura
+ruolo referente tecnico, consente, visualizzazione procedura
+sezione note, consente, inserimento note descrittive
+sezione cronologia, mostra, storico operazioni
+sezione cronologia, include, note e allegati
+sezione documenti, include, documenti creati
+sezione domande ricevute, mostra, informazioni domande
+sezione domande ricevute, mostra, operatori economici
+sezione allegati, include, allegati rettifiche e proroghe
+flusso approvazione, definito in, manuale indizione procedura
+utente rup, pubblica, qualifica ristretta
+utente pi, invia, pratica a rup
+utente rup, puo, approvare
+utente rup, puo, respingere
+utente rup, puo, rifiutare
+utente rup, puo, modificare

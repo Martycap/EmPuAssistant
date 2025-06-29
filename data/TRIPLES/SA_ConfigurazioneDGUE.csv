@@ -1,0 +1,60 @@
+soggetto,relazione,oggetto
+dgue, e un, modello auto dichiarativo
+modello auto dichiarativo, consente, oe di autocertificare requisiti
+adozione dgue, mira a, semplificare verifica sa
+adozione dgue, richiesta da, codice contratti d lgs 36 2023
+specializzazione dgue, avviene in, busta documentazione
+funzionalita dgue strutturato, non disponibile in, manifestazione interesse
+funzionalita dgue strutturato, disponibile in, fase inviti
+dgue strutturato, richiede, compilazione sezioni oe
+oe, devono scaricare, pdf auto generato
+oe, devono firmare, pdf auto generato
+oe, devono ricaricare, documento firmato
+documento firmato, ricaricato in, busta amministrativa
+specializza dgue mandanti, consente, specializzazione per ruolo oe
+specializza dgue ausiliarie, consente, specializzazione per ruolo oe
+specializza dgue esecutrici, consente, specializzazione per ruolo oe
+in assenza di specializzazioni, modello dgue, identico a quello della mandataria
+dgue, compilato direttamente in, piattaforma empulia
+configurazione efficace dgue, richiede, disattivazione sezioni non pertinenti
+configurazione dgue, strutturata in, parte sezione modulo richiesto
+disattivazione parte, disattiva, sezioni e moduli relativi
+disattivazione sezione, disattiva, moduli richiesti relativi
+tabella dgue, contiene, colonna indice
+tabella dgue, contiene, colonna tipologia
+tabella dgue, contiene, colonna descrizione
+colonna esito riga, mostra, icone rosse o verdi
+icona verde, indica, dati presenti
+icona rossa, indica, dati mancanti
+lente, apre, dettaglio modulo
+lente, visualizza, anteprima domanda fornitore
+lente, permette, completamento info mancanti
+lente, permette, specifica criteri minimi
+se requisito minimo non valorizzato, riferimento, documentazione gara
+requisiti non valorizzati, compilazione, facoltativa
+moduli con bollino rosso, richiedono, info obbligatorie
+bollino rosso, evidenzia, info mancanti in arancio
+info obbligatorie, devono essere, inserite
+procedura di gara con comando copia, necessita, aggiornamento info
+info da aggiornare, includono, titolo e descrizione appalto
+cursore su bollino azzurro, mostra, info utili e di dettaglio
+campi da compilare, evidenziati in, modulo dati informativi appalto
+configurazione dgue, fondamentale per, gestione gara appalto
+manuale, fornisce, istruzioni personalizzazione dgue
+sezione info partecipazione lotti, deve essere, completata
+oe, puo selezionare, opzione inserimento offerte
+oe, puo indicare, numero massimo lotti
+oe, puo indicare, lotti aggiudicabili
+specializzazione moduli, avviene con, clic su lente
+lente, consente, definizione campi e requisiti minimi
+moduli, possono definire, requisiti minimi per lotto
+requisiti, associati a, specifici lotti
+moduli, prevedono, domande dipendenti
+domande dipendenti, legate a, configurazioni precedenti
+sezioni predisposte, permettono, salvataggio dgue
+salvataggio, permette, anteprima pdf documento strutturato
+documento, puo essere, allegato agli atti di gara
+documento, puo essere, esempio per partecipanti
+dgue, esportabile come, xml modello
+xml modello, disponibile in, versione completa e versione europea
+versione europea, priva di, sezioni nazionali

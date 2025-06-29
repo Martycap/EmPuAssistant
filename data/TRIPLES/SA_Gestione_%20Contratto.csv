@@ -1,0 +1,87 @@
+soggetto,relazione,oggetto
+manuale, illustra, funzionalita creazione contratto
+invio schede, avviene, modulo gestione contratto
+modulo gestione contratto, comunica, sistema PCP ANAC
+gestione contratto, richiede, comunicazione esito definitivo
+utente, seleziona, sezione Aggiudicazioni in attesa di contratto
+schermata, mostra, tabella aggiudicazioni in attesa contratto
+utente, visualizza, dettaglio aggiudicazione
+utente, genera, contratto
+ogni contratto, e indipendente da, altri contratti
+utente, puo creare, contratto unico
+utente, clicca, comando Contratto
+contratto creato, viene spostato, sezione Contratti
+toolbar, contiene, comandi gestione documento
+comando gestione, include, Salva
+comando gestione, include, Invio
+comando gestione, include, Invio in approvazione
+comando gestione, include, Modifica Contratto
+comando gestione, include, Modello Contratto
+comando gestione, include, Funzioni
+comando gestione, include, Chiudi
+RUP esecuzione, deve essere, registrato su EmPULIA
+Direttore esecuzione, deve avere, profilo DEC
+compilazione contratto, richiede, oggetto contratto
+campo Valore Contratto, permette, modifica valore
+campo Oneri, riporta, importi sicurezza
+tabella Elenco documenti, include, riga allegato contratto
+utente, carica, file contratto
+utente, allega, altri documenti
+utente, seleziona, modalita firma
+modalita firma, include, firmato solo stazione appaltante
+modalita firma, include, firmato da entrambi
+modalita firma, include, firmato solo operatore economico
+contratto, viene inviato, fornitore
+stato documento, cambia in, inviato
+contratto, inviato, in approvazione
+firmatario, accede, portale EmPULIA
+firmatario, invia, documento
+gestione contratto, prevede, stati multipli
+stato contratto, include, in lavorazione
+stato contratto, include, inviato
+stato contratto, include, in approvazione
+stato contratto, include, confermato
+stato contratto, include, rifiutato
+contratto Scrittura Privata, si perfeziona, caricamento file firmati
+tabella Elenco documenti, mostra, file firmati
+tabella Cronologia, mostra, storico operazioni
+utente, filtra, contratti con criteri
+utente, visualizza, informazioni contratto
+informazioni contratto, includono, oggetto
+informazioni contratto, includono, valore
+informazioni contratto, includono, data invio
+utente, compila, Elenco Prodotti
+utente, scarica, Foglio prodotti
+utente, aggiunge, prodotti
+utente, clicca, comando Verifica Informazioni
+sistema, segnala, errori
+utente, corregge, anomalie
+utente, clicca, comando Modello Contratto
+sistema, presenta, documento iniziale
+utente, modifica, informazioni documento
+utente, rilascia, documento
+utente, assegna, documento a altro utente
+struttura contratto, include, sezioni procedura gara
+struttura contratto, include, amministrazione
+struttura contratto, include, aggiudicatario
+struttura contratto, include, offerta aggiudicata
+struttura contratto, include, dati consegna
+sezione fatturazione, puo essere, modificata
+utente, modifica, ordine sezioni
+utente, genera, PDF
+documento archiviato, non e, editabile
+utente, annulla, documento
+sistema, mantiene, cronologia azioni
+utente, clicca, comando Annulla
+modifica contratto, non invia, scheda PCP
+utente, modifica, data stipula
+utente, clicca, comando Conferma
+documento, cambia stato, confermato
+comando Funzioni, consente, rinnovo contratto
+comando Funzioni, consente, estensione contratto
+sistema, trasmette, scheda SC1
+sistema, trasmette, scheda S3
+trasmissione schede, avviene, se contratto confermato
+contratto, si conferma, con caricamento firmato SA e OE
+utente, fornisce, supporto
+utente, allega, file JSON errore

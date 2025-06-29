@@ -1,0 +1,31 @@
+soggetto,relazione,oggetto
+utente operativo,è,già registrato sulla piattaforma EmPULIA
+utenza,è stata migrata,nuova piattaforma
+utente,riceverà,nuova tripletta di credenziali
+tripletta di credenziali,è composta da,Codice di accesso
+tripletta di credenziali,è composta da,Nome Utente
+tripletta di credenziali,è composta da,Password
+credenziali,sono valide per,nuova piattaforma
+vecchia piattaforma,rimane,accessibile
+utente,accede con,nuove credenziali
+utente,trova,azione obbligatoria 'Cambio Password'
+utente,configura,nuova password
+nuova password,deve rispettare,criteri di sicurezza
+pagina di modifica ruolo,è divisa in,tre sezioni
+sezione,include,Informazioni Utente
+sezione,include,Scelta del Proprio Ruolo
+sezione,include,Altri Dati
+utente,modifica,informazioni di contatto
+utente,seleziona,uno o più ruoli
+ruolo Punto Istruttore,richiede,approvatore di riferimento
+ruolo Punto Ordinante o RUP PDG,richiede,pdf riepilogativo firmato
+ruolo RUP PDG,richiede,atto di nomina o idoneità 
+più ruoli,richiedono,indicazione del ruolo prevalente
+sezione Altri Dati,richiede,Struttura di Appartenenza
+utente,effettua,logout
+utente,rientra con,credenziali
+menu di sinistra,mostra,gruppi funzionali
+gruppi funzionali,sono abilitati,in base al ruolo assegnato
+utente,consulta,manuali e strumenti di apprendimento
+manuali e strumenti,sono pubblicati in,sezione Migrazione Piattaforma
+sezione Migrazione Piattaforma,includerà,eventi formativi

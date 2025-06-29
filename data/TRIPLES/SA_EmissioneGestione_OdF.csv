@@ -1,0 +1,47 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per creazione commissioni di gara
+sistema, crea automaticamente, commissione in procedure informali
+sistema, individua, RUP come presidente
+commissione di gara, richiede, scadenza presentazione offerte
+presidente, apre, documentazione
+presidente, valuta, documentazione
+presidente, esclude, operatori economici
+presidente, invia, comunicazioni
+presidente, procede, aggiudicazione
+presidente, richiede, offerte migliorative
+commissione tecnica, valuta, procedura di aggiudicazione
+commissione economica, valuta, offerta economica
+presidente, deve essere, registrato sul sistema
+membro commissione, puo essere, registrato in altra stazione appaltante
+documento, contiene, informazioni identificative
+toolbar, include, comando salva
+toolbar, include, comando conferma
+toolbar, include, comando modifica
+toolbar, include, comando stampa
+toolbar, include, comando assegna
+toolbar, include, comando esporta in xls
+sezione seggio di gara, consente, inserimento atti
+sezione seggio di gara, consente, definizione membri
+utente, si seleziona, da elenco proposto
+sistema, compila automaticamente, campi informativi
+membro commissione, si seleziona, da utenti registrati
+membro commissione, si registra, se non presente
+atto, si inserisce, tramite comando inserisci atto
+file, si allega, tramite comando allega
+curriculum, si allega, nella lista utenti
+commissione tecnica, include, atti
+commissione tecnica, include, membri
+commissione economica, si crea, se diversa da seggio di gara
+commissione economica, include, atti
+commissione economica, include, membri
+comando copia seggio di gara, duplica, atti e membri
+comando copia commissione giudicatrice, duplica, atti e membri
+documento, si conferma, cliccando su comando conferma
+documento, si modifica, cliccando su comando modifica
+nome commissione, si inserisce, nella creazione
+data inizio attivita, si inserisce, nella creazione
+data fine attivita, si inserisce, nella creazione
+utente, si registra, contestualmente alla creazione
+utente, si elimina, tramite casella elimina
+sistema, invia, notifica a pec ente
+storico, contiene, registro modifiche

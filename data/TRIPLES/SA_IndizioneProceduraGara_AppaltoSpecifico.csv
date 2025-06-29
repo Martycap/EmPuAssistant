@@ -1,0 +1,27 @@
+soggetto,relazione,oggetto
+piattaforma empulia, consente, richiesta cig derivati in interoperabilita
+guida rapida, descrive, passaggi per ottenere cig in interoperabilita
+pi, configura, odf
+pi, non ha accesso, menu gestione pcp
+pi, invia, odf
+po, verifica, contenuto odf
+po, richiede, cig
+po, firma digitalmente, odf
+po, invia, odf al fornitore
+intestazione odf, contiene, parametri pcp
+parametri da compilare, includono, scheda pcp
+parametri da compilare, includono, stato pcp
+parametri da compilare, includono, cig master
+parametri da compilare, includono, utente rup
+po, deve essere profilato, rup
+pi, puo inviare, odf in approvazione
+po, invia, schede a pcp di anac
+po, utilizza, comando conferma appalto
+conferma appalto, e, servizio asincrono
+rup, puo richiedere, cig derivato extra empulia
+cig derivato, puo essere inserito, manualmente
+piattaforma, avvisa, utente
+ordinativo, e disconnesso, pcp
+menu gestione pcp, non disponibile, cig inserito manualmente
+odf, non piu in lavorazione, menu gestione pcp disponibile
+odf, inviato in approvazione, non piu possibile attivare o disattivare cig

@@ -1,0 +1,32 @@
+soggetto,relazione,oggetto
+manuale, descrive, modalita per indire rilancio competitivo
+manuale, descrive, modalita per configurare rilancio competitivo
+configurazione rilancio competitivo, segue, regole delle procedure telematiche
+utente, deve avere, profilo abilitato
+profilo abilitato, assegnato da, amministratore sistema
+utente, accede, funzione rilanci competitivi
+utente, seleziona, riga
+utente, clicca, comando crea rilancio competitivo
+documento rilancio competitivo, composto da, toolbar comandi
+documento rilancio competitivo, composto da, intestazione con dati procedura
+intestazione, contiene, scheda pcp associata
+sezione interoperabilita, contiene, informazioni per pcp
+sezione interoperabilita, contiene, informazioni per ted
+aree e richieste, variano, tipologia procedura
+aree e richieste, variano, settore
+aree e richieste, variano, ambito
+aree e richieste, variano, schede pcp
+sezione criteri valutazione, consente, configurare parametri richiesti
+sezione criteri valutazione prevalenti, consente, configurare parametri richiesti
+punteggio tecnico, puo essere, ereditato
+gestore aq, definisce, valori ereditarieta punteggio
+valore ereditarieta, definito da, rup rilancio competitivo
+oe, partecipa, rilancio competitivo
+criteri ereditati, possono essere, esclusi dal calcolo
+esclusione criteri, aggiorna, peso punteggio tecnico
+gara istitutiva, pubblicata prima, attivazione funzionalita piattaforma
+sezione destinatari, mostra, elenco invitati
+elenco invitati, non puo essere, modificato
+graduatoria, definita in, gara istitutiva
+sezioni aggiuntive, descritte in, manuale procedura appalto specifico
+sezioni aggiuntive, non prevedono, regole eccezionali

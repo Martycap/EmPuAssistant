@@ -1,0 +1,78 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per rispondere a richieste accesso atti
+manuale, fornisce, istruzioni per inviare documentazione art 36 comma 1
+manuale, fornisce, istruzioni per inviare documentazione art 36 comma 2
+manuale, descrive, funzionalita risposta richieste accesso atti su EmPULIA
+funzionalita, consente, gestione richieste accesso atti generiche
+richieste accesso atti, pervengono tramite, EmPULIA
+richieste accesso atti, relative a, gare telematiche
+accesso, disponibile per, RUP
+accesso, disponibile per, utenti indicati come riferimenti
+utente, accede a, Area Riservata
+utente, seleziona, sezione richiesta accesso atti
+schermata, presenta, area filtro
+schermata, presenta, toolbar per gestione richieste
+toolbar, contiene, Stampa
+toolbar, contiene, Crea Risposta
+toolbar, contiene, Chiudi
+intestazione, mostra, informazioni identificative non editabili
+intestazione, mostra, stato documento
+area sottostante, contiene, informazioni richiedente
+area sottostante, contiene, allegato richiesta
+utente, puo inviare, risposta richiesta accesso atti
+comando Crea Risposta, attivo se, stato richiesta e inviato
+documento riscontro, ha, stato in lavorazione
+documento riscontro, aggiornato a, inviato al momento invio
+più risposte, possono essere inviate a, una richiesta
+chiusura richiesta, impostata come, si o no
+allegato, aggiunto con, comando Aggiungi Allegato
+allegato, include, descrizione e file
+risposta, inviata a, operatore economico
+invio risposta, aggiorna, stato documento a inviato
+se chiusura e, si, stato aggiornato a evasa
+se chiusura e, no, stato aggiornato a inviata
+sezione Riscontro Richieste Accesso, mostra, tutti i riscontri
+riscontri, visibili a, utenti indicati come riferimenti
+riscontri, filtrabili con, criteri multipli
+toolbar gestione risposte, include, Elimina
+toolbar gestione risposte, include, Esporta in xls
+toolbar gestione risposte, include, Seleziona Deseleziona
+tabella riscontri, mostra, risposte richieste accesso atti
+utente collegato, indicato come, RUP o riferimento
+tabella riscontri, include, Stato Documento
+tabella riscontri, include, Titolo Documento
+tabella riscontri, include, Data Invio
+tabella riscontri, include, Registro Manuale
+tabella riscontri, include, SA
+tabella riscontri, include, Bando
+tabella riscontri, include, Fascicolo
+tabella riscontri, include, Fornitore
+tabella riscontri, include, Codice Fiscale
+tabella riscontri, include, Partita Iva
+tabella riscontri, include, Sede Azienda
+tabella riscontri, include, Indirizzo Azienda
+riscontro, ha stato, Salvata
+riscontro, ha stato, Inviata
+utente, accede a, dettaglio riscontro con icona lente
+riscontro predisposto, eliminabile con, comando Elimina
+SA, utilizza, comunicazione aggiudicazione definitiva
+aggiudicatario proposto, comunica, aggiudicazione definitiva
+aggiudicazione definitiva, inviata a, operatori economici partecipanti
+comunicazione, contiene, campi richiesti
+comunicazione, include, allegazione Determina aggiudicazione
+comunicazione, definisce, destinatari di default
+destinatari default, sono, OE mandanti e mandatarie in graduatoria
+SA, puo rendere disponibile, documentazione presentata aggiudicatario
+documentazione, allegata in, cartella compressa
+SA, definisce, documenti visibili per primi cinque classificati
+per ogni offerta, disponibile, Scheda art 36 comma 2
+compilazione scheda, e, passaggio facoltativo
+SA, compila, documento dedicato per ogni offerta
+documento, selezionato come, presentato da OE
+documento, puo essere, caricato manualmente con oscuramenti
+oscuramento, predisposto da, SA
+dopo chiusura procedura, SA, attiva comunicazione art 36 comma 2
+comunicazione, include, allegati da condividere
+allegati, associati a, ogni OE
+destinatari default, sono, primi cinque classificati
+destinatari, non modificabili da, SA

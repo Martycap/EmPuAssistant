@@ -1,0 +1,110 @@
+soggetto,relazione,oggetto
+Manuale, illustra, modalita abilitazione SDA
+Operatore Economico, visualizza, bandi abilitazione pubblicati
+Operatore Economico, consulta, documentazione
+Operatore Economico, invia, richiesta abilitazione
+Richiesta abilitazione, deve essere, confermata da Amministrazione
+Operatore Economico, clicca su, Abilitazione SDA
+Operatore Economico, clicca su, Bandi SDA pubblicati
+Sezione Bandi SDA Pubblicati, include, Titolo Bando Istitutivo
+Sezione Bandi SDA Pubblicati, include, Descrizione Breve
+Sezione Bandi SDA Pubblicati, include, Registro di Sistema
+Sezione Bandi SDA Pubblicati, include, Scadenza
+Operatore Economico, clicca su, Vedi
+Operatore Economico, clicca su, Per inviare un quesito
+Operatore Economico, clicca su, Iscrizione
+Richiesta di ammissione, include, Testata
+Richiesta di ammissione, include, Dichiarazioni
+Richiesta di ammissione, include, Documentazione
+Documentazione, include, DGUE
+Operatore Economico, salva, richiesta abilitazione
+Operatore Economico, riprende, richiesta abilitazione
+Toolbar, include, Salva
+Toolbar, include, Invia
+Toolbar, include, Assegna a
+Toolbar, include, Anteprima di Stampa
+Toolbar, include, Documenti Collegati
+Toolbar, include, Precedente
+Toolbar, include, Chiudi
+Comando Invia, attivato dopo, Genera PDF
+Sistema, genera, data di scadenza
+Sistema, alimenta, campo Utente
+Documenti, contengono, dati precompilati
+Sezione Il Sottoscritto, richiede, dati compilatore
+Sezione Il Sottoscritto, richiede, dati dichiarante
+Operatore Economico, clicca su, Seleziona localita
+Operatore Economico, compila, sezione Dichiara
+Operatore Economico, seleziona, campi
+Operatore Economico, seleziona, certificazioni
+Operatore Economico, seleziona, area merceologica
+Operatore Economico, allega, documentazione amministrativa
+Operatore Economico, clicca su, Compila DGUE
+Operatore Economico, allega, DGUE firmato
+Allegato DGUE, visibile in, scheda Richiesta Abilitazione
+Operatore Economico, elimina, righe non compilate
+Operatore Economico, clicca su, Allegato
+Operatore Economico, clicca su, Aggiungi Allegato
+Operatore Economico, compila, campo Descrizione
+Sistema, richiede, allegato per categoria
+Operatore Economico, clicca su, Genera PDF
+Operatore Economico, firma, file PDF
+Operatore Economico, clicca su, Allega Pdf firmato
+Operatore Economico, clicca su, Invia
+Sistema, invia, email notifica
+Sistema, svuota, Utente in carico
+Documento, cambia stato, In Valutazione
+Richiesta abilitazione, non modificabile dopo, invio
+Esito richiesta abilitazione, puo essere, Confermata
+Esito richiesta abilitazione, puo essere, Rifiutata
+Esito richiesta abilitazione, puo essere, Integrazione
+Nuova richiesta, invalida, richiesta precedente
+Operatore Economico, accede a, Area Riservata
+Operatore Economico, seleziona, Bandi a cui sto partecipando
+Operatore Economico, clicca su, Apri
+Operatore Economico, seleziona, Comunicazioni
+Operatore Economico, clicca su, Ricevute
+Comunicazione, mostra, titolo
+Comunicazione, mostra, data invio
+Comunicazione, mostra, registro di sistema
+Comunicazione, mostra, stato
+Operatore Economico, clicca su, Vedi
+Comunicazione conferma, mostra, compilatore
+Comunicazione conferma, mostra, titolo
+Comunicazione conferma, mostra, fase notificato
+Comunicazione conferma, mostra, oggetto
+Comunicazione conferma, mostra, allegati
+Operatore Economico, riceve, invito rinnovo
+Richiesta integrazione, richiede, risposta entro termine
+Operatore Economico, apre, dettaglio comunicazione
+Toolbar, include, Stampa
+Toolbar, include, Documenti collegati
+Toolbar, include, Chiudi
+Richiesta integrazione, mostra, protocollo
+Richiesta integrazione, mostra, registro di sistema istanza
+Richiesta integrazione, mostra, oggetto
+Richiesta integrazione, mostra, data scadenza
+Operatore Economico, puo presentare, nuova richiesta
+Operatore Economico, clicca su, Risposta
+Operatore Economico, inserisce, risposta
+Operatore Economico, clicca su, Invio
+Documento Risposta, archiviato in, Comunicazioni
+Richiesta abilitazione, cambia fase, In valutazione
+Richiesta Integrativa, cambia stato, Integrata
+Operatore Economico, seleziona, Comunicazioni Inviate
+Schermata, mostra, tabella comunicazioni inviate
+Operatore Economico, clicca su, Apri
+Operatore Economico, aggiorna, dichiarazioni
+Sistema, controlla, ragione sociale
+Sistema, controlla, forma giuridica
+Sistema, controlla, nome
+Sistema, controlla, cognome
+Sistema, controlla, codice fiscale
+Sistema, controlla, giusta procura
+Sistema, controlla, indirizzo PEC
+Sistema, controlla, categorie merceologiche
+Sistema, controlla, dichiarazione reati
+Sistema, controlla, allegati
+Modifiche assenti, causano, conferma automatica
+Modifiche presenti, causano, nuova valutazione
+Rinnovo non effettuato, causa, sospensione iscrizione
+Sistema, invia, notifica

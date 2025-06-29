@@ -1,0 +1,20 @@
+soggetto,relazione,oggetto
+manuale, fornisce, istruzioni per utilizzo Seduta Virtuale
+Seduta Virtuale, consente, visualizzazione informazioni in tempo reale
+Seduta Virtuale, disponibile per, procedure di gara
+Seduta Virtuale, non disponibile per, fase di prequalifica
+Seduta Virtuale, non disponibile per, valutazione manifestazioni interesse
+Seduta Virtuale, disponibile per, concorsi di idee e progettazione
+OE, visualizza, nominativi partecipanti
+OE, visualizza, forme partecipazione
+OE, visualizza, presenza documentazione
+OE, visualizza, ammissioni o esclusioni
+OE, visualizza, punteggi valutazione
+OE, visualizza, esiti calcolo anomalia
+OE, visualizza, graduatoria
+OE, accede, Area Riservata
+OE, inserisce, credenziali nella piattaforma
+OE, accede, procedura di gara
+Seduta Virtuale, accessibile se, prevista dalla Stazione Appaltante
+Seduta Virtuale, accessibile se, aperta manualmente
+Seduta Virtuale, accessibile se, OE ha presentato offerta

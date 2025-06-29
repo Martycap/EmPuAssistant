@@ -1,0 +1,82 @@
+soggetto,relazione,oggetto
+utente, accede, portale EmPULIA
+utente, fornisce, dati personali
+sistema, assegna, account
+account, composto da, codice accesso
+account, composto da, nome utente
+account, composto da, password
+attivazione account, e', immediata
+permessi, limitati a, Utente Ente Base
+registrazione, composta da, cinque step
+step, include, selezione ente
+step, include, riepilogo dati ente
+step, include, dati utente
+step, include, trattamento dati personali
+step, include, riepilogo
+sistema, invia, email conferma
+email, inviata a, utente
+email, inviata a, PEC struttura
+lista attivita, mostra, azioni da compiere
+cambio password, e', obbligatorio
+profilazione utente, avviene con, definizione ruolo
+modifica ruolo, e', passaggio importante
+utente, accede a, Area Riservata
+utente, seleziona, Gestione utente
+utente, seleziona, Modifica ruolo
+schermata modifica ruolo, contiene, toolbar
+toolbar, contiene, Conferma
+toolbar, contiene, Stampa
+toolbar, contiene, Esporta in Excel
+toolbar, contiene, Chiudi
+schermata, divisa in, tre aree
+area, include, Informazioni Utente
+area, include, Scelta del proprio ruolo
+area, include, Altri dati
+area Informazioni Utente, mostra, nome utente
+area Informazioni Utente, mostra, nome
+area Informazioni Utente, mostra, cognome
+area Informazioni Utente, mostra, codice fiscale
+area Informazioni Utente, mostra, lingua
+area Informazioni Utente, mostra, telefono 1
+area Informazioni Utente, mostra, telefono 2
+area Informazioni Utente, mostra, email
+utente, seleziona, ruoli da attribuire
+utente, indica, ruolo prevalente
+ruolo, associato a, profilo utente
+Punto Istruttore, puo', predisporre documenti
+Punto Istruttore, lavora su, RDO
+Punto Istruttore, lavora su, Gare Telematiche
+Punto Istruttore, lavora su, Consultazioni Preliminari di mercato
+Punto Ordinante, puo', predisporre documenti
+Punto Ordinante, puo', sottoscrivere documenti
+Punto Ordinante, puo', pubblicare documenti
+RUP PDG, puo', indire procedure
+RUP PDG, puo', approvare procedure
+RUP PDG, lavora su, Appalti Specifici
+se ruolo e', Punto Istruttore, responsabile e', richiesto
+RUP PDG, deve, allegare atto di nomina
+utente, clicca, Utility Utente
+utente, clicca, Dettaglio Utente
+utente, puo', modificare dati contatto
+dati utente, sono, in sola lettura
+ente, mostra, anagrafica
+tab Utenti, mostra, Nome e Cognome
+tab Utenti, mostra, Ruolo
+tab Utenti, mostra, Telefono 1
+tab Utenti, mostra, Telefono 2
+tab Utenti, mostra, E-Mail
+tab Storico, riporta, variazioni anagrafica
+voci Storico, includono, variazioni dati
+voci Storico, includono, cessazioni
+amministratore, modifica, struttura ente
+modifica, tracciata in, documento
+documento, chiamato, Modifica Dati Ente
+modifica, evidenziata da, riquadro rosso
+conferma ruolo, aggiorna, informazioni anagrafica
+utente, riceve, notifica email
+utente, opera con, permessi ruolo
+cessazione utente, eseguita con, comando Cessazione Utente
+cessazione, richiede, conferma
+cessazione, avviene dopo, chiusura sessione
+sistema, invia, mail conferma
+cessazione, consentita se, utente non unico dell’ente
