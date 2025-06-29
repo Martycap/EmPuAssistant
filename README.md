@@ -40,3 +40,6 @@ This project was developed as part of an NLP course assignment, with the goal of
 ├── app.py        # Main pipeline: retrieval + LLM response
 
 └── README.md     # Project description and setup
+
+
+isntalla: python -m spacy download it_core_news_sm
