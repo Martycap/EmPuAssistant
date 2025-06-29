@@ -1,1 +1,6 @@
-data
+data/PDF
+data/TEXT
+data/REPHRASE_TEXT
+models
+.gradio
+knowledge_graph
