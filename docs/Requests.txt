@@ -1,0 +1,53 @@
+Cosa serve per partecipare a una manifestazione di interesse?
+Che cosa fornisce il manuale?
+Quali tipi di concorsi descrive il manuale?
+Dove viene effettuata la valutazione dei concorsi?
+Cosa è necessario per accedere alla valutazione dei concorsi?
+Dove si trovano le PdA accessibili?
+Come si accede al dettaglio di un concorso?
+Chi può aprire le buste tecniche?
+Cosa permette la scheda valutazione?
+Come si conclude la valutazione tecnica?
+Chi può scaricare tutti gli allegati tecnici?
+Cosa accade dopo la chiusura della valutazione tecnica?
+Qual è la funzione del comando "Sblocca buste amministrative"?
+Chi può condurre la valutazione amministrativa?
+Quali esiti possono essere assegnati a un’offerta?
+Cosa succede in caso di esclusione di un’offerta?
+Come si modifica la partecipazione di un operatore?
+Cosa succede dopo la conclusione della valutazione amministrativa?
+Cosa consente la piattaforma in termini di utenze?
+Come si assegna un documento a un utente?
+Dove si trovano le informazioni per l’uso della nuova piattaforma?
+Cosa succede alle aziende abilitate a più categorie?
+Come si accede agli operatori economici partecipanti?
+Quando scade il primo rinnovo per le aziende migrate?
+Dove si richiedono i CIG derivati in interoperabilità?
+Chi trasmette l'OdF al PO per la richiesta del CIG?
+Chi verifica l’OdF e richiede il CIG tramite Conferma Appalto?
+Quali parametri sono richiesti per la richiesta del CIG derivato?
+Cosa succede se il CIG derivato è inserito manualmente?
+Quando il menu Gestione PCP torna disponibile?
+Quando è obbligatoria la trasmissione dell’avviso di aggiudicazione?
+L’avviso di aggiudicazione può essere modificato dopo l’invio?
+Come si verifica la corretta trasmissione della scheda?
+Ogni quanto la piattaforma schedula la chiamata a "Consulta Avviso"?
+Chi può aprire le buste amministrative in EmPULIA?
+Cosa succede dopo la valutazione amministrativa?
+Chi riceve il documento di trasferimento dopo un cambio RUP?
+Quando può avvenire la sostituzione del RUP Appaltante?
+Chi deve avviare il trasferimento di procedura o contratto?
+Cosa deve fare il nuovo RUP per prendere in carico una procedura?
+Quali contratti possono essere trasferiti?
+Cosa comporta la presa in carico di un contratto?
+Dove si modificano dati come Ragione Sociale o P.IVA?
+Come vengono gestite le modifiche anagrafiche?
+Domanda che non riceve ottimi risultati: Quanti albi fornitori sono presenti nella nuova piattaforma?
+Dove si verificano le abilitazioni alle categorie?
+Come viene creata una nuova utenza?
+È possibile modificare i dati precaricati di una nuova utenza?
+Dove si trovano gli utenti collegati a un’azienda?
+Quale comando consente di assegnare una procedura a un altro utente?
+Dove si trovano i materiali di supporto alla nuova piattaforma?
+Sono previsti eventi formativi?
+
