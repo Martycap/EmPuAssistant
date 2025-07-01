@@ -1,0 +1,331 @@
+[2025-07-01 19:09:57]
+Domanda: Cosa serve per partecipare a una manifestazione di interesse?
+Risposta: La manifestazione di interesse è un passo iniziale per partecipare a un'opportunità di gara o di appalto, in cui si presentano le proprie capacità e interessi per partecipare al bando. In questo modo, gli operatori economici possono essere selezionati per partecipare al successivo passo, ovvero la presentazione della proposta.
+
+In pratica, la manifestazione di interesse serve a dimostrare all'ente che emette il bando di avere le giuste competenze e capacità per partecipare al progetto, e a consentire all'ente di selezionare i partecipanti più idonei.
+----------------------------------------
+[2025-07-01 19:12:09]
+Domanda: Che cosa fornisce il manuale?
+Risposta: Il manuale fornisce istruzioni per partecipare a concorsi, per inviare risposte a richieste, per la creazione di commissioni di gara, per l'invio di documentazione e per altre operazioni relative a gare d'appalto. In sintesi, è un supporto per l'utilizzo di una piattaforma per gare d'appalto. 
+
+Se hai bisogno di partecipare a un concorso, il manuale ti spiega come fare, se hai bisogno di inviare una domanda di partecipazione, il manuale ti aiuta a fare ciò, e così via. 
+
+Inoltre, il manuale riguarda anche l'invio di manifestazione di interesse e di domanda di partecipazione. 
+
+Spero di aver chiarito. Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 19:13:43]
+Domanda: Quali tipi di concorsi descrive il manuale?
+Risposta: Il manuale descrive diversi tipi di concorsi, ovvero le fasi per la valutazione dei concorsi, le istruzioni per l'invio di risposte a concorsi e le istruzioni per la valutazione delle risposte. 
+In generale, il manuale fornisce istruzioni per la gestione di diverse attività, come ad esempio la gestione dei contratti per gli Operatori Economici, la compilazione di documenti, la gestione di convenzioni e listini, la gestione di ordinativi, la gestione delle richieste di fabbisogni, la gestione delle risposte alle richieste di accesso a documenti e la procedura per il trasferimento di RUP (Riferimenti Unici di Progetto). Non descrive però i tipi di concorsi in senso stretto, ma piuttosto le fasi e le procedure per partecipare a concorsi e per gestire le gare d'appalto. 
+Se hai altre domande, non esitare a chiedere. 
+Ciao!
+----------------------------------------
+[2025-07-01 19:15:15]
+Domanda: Dove viene effettuata la valutazione dei concorsi?
+Risposta: La valutazione dei concorsi viene effettuata dalla stazione appaltante, che utilizza un insieme di regole e parametri per giudicare le proposte presentate. In alcuni casi, la valutazione può essere soggettiva, mentre in altri può essere automatica tramite l'utilizzo di piattaforme specializzate. In ogni caso, le istruzioni per la valutazione sono generalmente fornite in un manuale specifico. Una volta conclusa la valutazione, il risultato viene comunicato ai partecipanti.
+----------------------------------------
+[2025-07-01 19:16:16]
+Domanda: Cosa è necessario per accedere alla valutazione dei concorsi?
+Risposta: Per accedere alla valutazione dei concorsi, è necessario avere accesso alla piattaforma e avere le informazioni necessarie per la valutazione, come ad esempio il manuale di istruzioni per la valutazione. Inoltre, se il metodo di valutazione è diverso dai più comuni, potrebbe essere richiesto di indicare il metodo di calcolo utilizzato. In generale, è sufficiente essere l'utente che ha presentato la propria idea o progettazione per partecipare alla valutazione. 
+In seguito alla valutazione, il sistema consente di accedere ai dettagli del documento e lo stato del documento cambia in "in valutazione" o "valutato". 
+Se ci sono modifiche alle proposte, potrebbe essere richiesto di una nuova valutazione. Inoltre, è possibile visualizzare i punteggi della valutazione. 
+In sintesi, per accedere alla valutazione dei concorsi, è sufficiente essere l'utente che ha presentato la propria idea o progettazione e avere accesso alla piattaforma, seguito dalle istruzioni per la valutazione.
+----------------------------------------
+[2025-07-01 19:18:03]
+Domanda: Dove si trovano le PdA accessibili?
+Risposta: Le PdA accessibili si trovano nella pagina di valutazione gare, nella tabella in cui sono elencati i risultati delle gare. Inoltre, quando si utilizza il comando "Trasferisci PDA" all'interno del RUP in carico, il sistema genera un documento di trasferimento che contiene le PdA. In passato, le procedure erano accessibili con precedenti modalità, e i risultati delle indagini sono accessibili con il profilo Fabbisogni Monitoraggio.
+----------------------------------------
+[2025-07-01 19:18:57]
+Domanda: Come si accede al dettaglio di un concorso?
+Risposta: Risposta: Per accedere al dettaglio di un concorso, puoi cliccare sull'icona lente accanto al titolo del concorso o sul comando "Dettaglio" e visualizzare le informazioni necessarie come ad esempio l'oggetto del bando, i termini di presentazione delle risposte e le note. In questo modo potrai avere accesso a tutte le informazioni richieste per partecipare al concorso. 
+Se hai bisogno di altre informazioni, non esitare a chiedere. 
+Grazie per la tua domanda. 
+Ciao.
+----------------------------------------
+[2025-07-01 19:55:14]
+Domanda: Cosa permette la scheda valutazione?
+Risposta: La scheda valutazione è un strumento che consente di assegnare un punteggio alle candidature in un concorso, in base a specifiche caratteristiche e requisiti. 
+
+In pratica, l'utente può compilare la scheda valutazione, assegnare un punteggio a ciascuna sezione e, una volta conclusa la valutazione, inviare la scheda al sistema. Il sistema poi trasmetterà la scheda con il punteggio assegnato. 
+
+La scheda valutazione è un passaggio importante nel processo di selezione dei candidati e consente di valutare in modo oggettivo le candidature. 
+
+Inoltre, la scheda valutazione include comandi per salva e chiudi, e l'utente può verificare la trasmissione della scheda in una cronologia.
+----------------------------------------
+[2025-07-01 19:58:20]
+Domanda: Come si conclude la valutazione tecnica?
+Risposta: La valutazione tecnica si conclude con l'assegnazione del punteggio all'offerta, che viene poi esaminato dalla commissione per l'approvazione finale. In questo momento, la fase di valutazione tecnica è chiusa e il documento è stato confermato in stato di "concluso". È importante che tutte le offerte siano state valutate prima di procedere con la valutazione amministrativa. L'utente può verificare la compilazione della busta tecnica e, una volta conclusa la valutazione, inviare la comunicazione di chiusura della stessa.
+----------------------------------------
+[2025-07-01 19:59:20]
+Domanda: Chi può scaricare tutti gli allegati tecnici?
+Risposta: Solo gli Operatori Economici, ovvero coloro che hanno le credenziali necessarie, possono scaricare tutti gli allegati tecnici, compresi quelli firmati digitalmente. Inoltre, gli allegati sono associati a ogni Operatore Economico e possono essere scaricati individualmente. 
+
+In caso di bisogno, gli utenti possono anche riprendere gli allegati del bando, ma non possono scaricare tutti gli allegati in generale. 
+
+In sintesi, solo gli Operatori Economici possono scaricare tutti gli allegati, compresi quelli firmati digitalmente, mentre gli utenti hanno accessi limitati.
+----------------------------------------
+[2025-07-01 20:13:56]
+Domanda: Cosa accade dopo la chiusura della valutazione tecnica?
+Risposta: Dopo la chiusura della valutazione tecnica, la commissione assegna l'esito e la Stazione Appaltante invia una comunicazione di chiusura, che è di sola consultazione. L'utente non può più modificare la sua offerta tecnica e deve attendere la graduatoria finale per poter accedere alla documentazione amministrativa. Il comando "Chiusura" è disponibile nella toolbar e cambia lo stato del documento in "confermato".
+----------------------------------------
+[2025-07-01 20:14:59]
+Domanda: Qual è la funzione del comando "Sblocca buste amministrative"?
+Risposta: La funzione del comando "Sblocca buste amministrative" è quella di aprire le buste tecniche o le procedure amministrative che richiedono l'intervento dell'amministrazione, come ad esempio la modifica di una procedura o la gestione di un'istanza.
+----------------------------------------
+[2025-07-01 20:15:43]
+Domanda: Chi può condurre la valutazione amministrativa?
+Risposta: La valutazione amministrativa è condotta da un presidente o un valutatore, che assegna un esito alla valutazione. Non tutti possono condurre la valutazione, ma solo coloro che sono competenti per questo tipo di attività. 
+
+Inoltre, durante la valutazione, gli utenti devono verificare la compilazione dei documenti amministrativi e, una volta conclusa la valutazione, inviare una comunicazione per confermare il termine della fase amministrativa. 
+
+I documenti amministrativi sono allegati durante la valutazione e, in alcuni casi, possono richiedere la firma digitale. Inoltre, solo dopo la graduatoria, i documenti amministrativi diventano accessibili a chi ne fa richiesta. 
+
+In sintesi, la valutazione amministrativa è un processo condotto da un presidente o un valutatore, in cui gli utenti devono verificare la compilazione dei documenti e, una volta conclusa, inviare una comunicazione. I documenti amministrativi sono allegati e diventano accessibili solo dopo la graduatoria.
+----------------------------------------
+[2025-07-01 20:17:16]
+Domanda: Quali esiti possono essere assegnati a un’offerta?
+Risposta: Risposta: Gli esiti che possono essere assegnati a un'offerta sono ad esempio "Accettata", "Rifiutata", "Anomala", "Riammessa" e "Scartata". 
+
+Nota: gli stati possono variare in base al tipo di gara e alle regole del bando di gara. 
+
+In generale, un'offerta può essere considerata "Accettata" se rispetta le condizioni del bando, "Rifiutata" se non rispetta le condizioni, "Anomala" se presenta errori o incompletezza, "Riammessa" se inizialmente rifiutata ma successivamente corretta e "Scartata" se non inviata o annullata. 
+
+Inoltre, un utente può salvare o cancellare un'offerta in fase di elaborazione, e gli stati delle offerte sono gestiti dalla Stazione Appaltante.
+----------------------------------------
+[2025-07-01 20:18:53]
+Domanda: Cosa succede in caso di esclusione di un’offerta?
+Risposta: In caso di esclusione di un'offerta, succede che l'offerta non viene inviata al destinatario. Ciò può avvenire a causa di anomalie presenti nell'offerta, come ad esempio la mancanza di informazioni o dati errati. Tuttavia, è possibile riamissionare l'offerta in caso di errori non bloccanti, salvandola per inviarla successivamente.
+
+Inoltre, è possibile eliminare l'offerta in lavorazione se si desidera annullare l'invio. Il sistema inibisce l'invio dell'offerta se contiene righe incomplete.
+
+La gestione delle offerte è possibile attraverso una toolbar che contiene comandi di gestione, come ad esempio l'assegnazione di un'offerta a un altro utente. Inoltre, in caso di offerte gestite da più utenti dello stesso OE, il sistema gestisce le modifiche apportate dagli utenti coinvolti.
+----------------------------------------
+[2025-07-01 20:20:18]
+Domanda: Come si modifica la partecipazione di un operatore?
+Risposta: Per modificare la partecipazione di un operatore, bisogna seguire alcuni passaggi. In primo luogo, l'operatore deve essere registrato a EmPULIA. Successivamente, può modificare i propri dati, come ad esempio il ruolo o le informazioni di contatto.
+
+Per modificare il ruolo, basta selezionare il comando "Modifica ruolo" e presentare la domanda di abilitazione per le nuove categorie. Se si tratta di creare un nuovo utente, è necessario effettuare la registrazione come operatore economico.
+
+In generale, i cambiamenti vengono effettuati attraverso la presentazione di domande o richieste, che non vengono più inviate via e-mail. Invece, è necessario ripresentare la domanda per ottenere l'abilitazione a nuove funzionalità. Il manuale spiega come inviare la domanda di partecipazione e come procedere per partecipare a gare o manifestazioni di interesse. In sintesi, per modificare la partecipazione di un operatore, è necessario essere registrato, modificare i propri dati e presentare le richieste necessarie.
+----------------------------------------
+[2025-07-01 20:22:15]
+Domanda: Cosa succede dopo la conclusione della valutazione amministrativa?
+Risposta: Dopo la conclusione della valutazione amministrativa, la commissione assegna l'esito della valutazione e la graduatoria dei candidati. I documenti amministrativi, che erano stati allegati, diventano accessibili solo alla SA (Sede Amministrativa) una volta che è stata assegnata la graduatoria. In questo momento, la fase amministrativa è terminata e il candidato può verificare la compilazione del proprio busta amministrativa. 
+In generale, il procedimento amministrativo è concluso e il candidato può attendere l'esito finale del concorso. 
+Se ci sono errori o mancanze, il sistema non permette modifiche alla richiesta di abilitazione dopo l'invio. 
+Tutto il resto, come la compilazione dei documenti e la valutazione, è stato eseguito automaticamente dal sistema.
+----------------------------------------
+[2025-07-01 20:23:43]
+Domanda: Cosa consente la piattaforma in termini di utenze?
+Risposta: La piattaforma consente di gestire un maggior numero di utenze per l'azienda, inoltre consente la salvaguardia dei dati in corso, la ripresa della compilazione in caso di interruzione e la valutazione manuale o automatica dei documenti. Inoltre, è possibile richiedere i CIG derivati in interoperabilità, stampare e scaricare gli allegati, cambiare password e selezionare il dettaglio delle categorie richieste.
+
+In sintesi, la piattaforma offre una maggiore flessibilità e sicurezza per l'utilizzo, consentendo a più utenti di accedere e a lavorare in modo efficiente.
+----------------------------------------
+[2025-07-01 20:24:56]
+Domanda: Come si assegna un documento a un utente?
+Risposta: Per assegnare un documento a un utente, devi utilizzare il comando "Assegna a" e selezionare l'utente destinatario. In questo modo, l'utente riceverà il documento e potrà accedervi con il proprio profilo utente.
+Se, ad esempio, vuoi assegnare un documento a un tuo collega, devi cercare il suo nome utente, selezionarlo e cliccare sul comando "Assegna a". In questo modo, il documento sarà assegnato al tuo collega e potrà accedervi con il proprio profilo utente.
+Inoltre, è importante notare che, prima di assegnare un documento, l'utente che lo assegna deve avere i permessi necessari e il documento deve essere firmato digitalmente. In questo modo, si garantisce la sicurezza e l'autenticità del documento.
+Se hai bisogno di aiuto o di ulteriori informazioni, puoi sempre accedere alla sezione "Utility Utente" e selezionare "Dettaglio Utente" per visualizzare le tue informazioni di profilo e gestire i tuoi documenti.
+----------------------------------------
+[2025-07-01 20:26:32]
+Domanda: Dove si trovano le informazioni per l’uso della nuova piattaforma?
+Risposta: Per utilizzare la nuova piattaforma, ti consiglio di consultare la sezione "Aiuto" all'interno della piattaforma stessa, dove troverai informazioni dettagliate sull'utilizzo dei servizi e delle funzionalità. Inoltre, potrai partecipare a webinar formativi per imparare a sfruttare al meglio le funzionalità della nuova piattaforma. Se hai bisogno di aiuto, non esitare a contattare il nostro team di supporto.
+----------------------------------------
+[2025-07-01 20:27:29]
+Domanda: Cosa succede alle aziende abilitate a più categorie?
+Risposta: Le aziende che sono abilitate a più categorie possono partecipare a diverse gare d'appalto e offrire servizi e prodotti diversi. In questo modo, hanno maggiori opportunità di vittoria in gara e di sviluppo del loro business. 
+
+Per esempio, se un'azienda è abilitata a entrambe le categorie "beni e servizi" e "lavori pubblici", può partecipare a gare per forniture di materiali e servizi, ma anche per lavori pubblici come la costruzione di un'infrastruttura.
+----------------------------------------
+[2025-07-01 20:28:33]
+Domanda: Come si accede agli operatori economici partecipanti?
+Risposta: Per accedere agli operatori economici partecipanti, l'utente può seguire i seguenti passaggi: 
+- accedere al sistema con le proprie credenziali 
+- selezionare il comando "partecipanti" 
+- visualizzare la lista degli operatori economici partecipanti all'appalto, che si può anche filtrare per ragione sociale o tipo di soggetto. 
+
+Inoltre, gli operatori economici partecipanti possono accedere al sistema solo dopo aver ricevuto l'aggiudicazione definitiva e possono presentare le loro idee in fase iniziale. In seguito, possono anche ricevere comunicazioni integrate e dover rispondere alle richieste. 
+In caso di esclusione, la decisione può essere presa da soggetti valutatori o dal presidente. Gli operatori economici possono avere contratti multipli e essere presenti in più di una tabella. 
+Il sistema mostra anche i primi cinque operatori economici in una colonna e la popola con i dati dopo la selezione dell'ID appalto. 
+Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 20:30:06]
+Domanda: Quando scade il primo rinnovo per le aziende migrate?
+Risposta: La scadenza del primo rinnovo per le aziende che hanno aderito al sistema di acquisizione pubblica è fissata per il 31 dicembre 2023. 
+
+In caso di scadenza, le aziende potrebbero subire la sospensione dell'iscrizione. Tuttavia, è possibile ottenere un proroga della scadenza in base alle esigenze specifiche. 
+
+Per avere maggiori informazioni, ti consiglio di controllare la sezione dei bandi pubblicati o di richiedere integrazioni sulla scadenza in questione. 
+
+Inoltre, puoi visualizzare i documenti relativi ai rinnovi e alle estensioni dei contratti all'interno del sistema, grazie alla funzionalità di visualizzazione dei documenti offerta dal Gruppo funzionale Contratti. 
+
+Spero di aver chiarito le informazioni. Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 20:31:37]
+Domanda: Dove si richiedono i CIG derivati in interoperabilità?
+Risposta: In EmPULIA, i CIG derivati in interoperabilità sono richiesti all'interno degli ordini di fornitura. Ciò significa che, quando un fornitore vuole inviare un'offerta per un ordine di fornitura, deve associare i CIG derivati relativi ai prodotti o servizi che offre. In questo modo, EmPULIA può verificare l'interoperabilità dei CIG e garantire che gli ordini di fornitura siano correttamente gestiti. L'utente, come ad esempio un RUP (Responsabile dell'Acquisizione di beni e servizi), può richiedere CIG derivati anche se non sono presenti all'interno della piattaforma, ma ciò richiede una procedura specifica. In generale, la guida rapida di EmPULIA descrive i passaggi per ottenere i CIG in interoperabilità all'interno della piattaforma.
+----------------------------------------
+[2025-07-01 20:33:05]
+Domanda: Chi trasmette l'OdF al PO per la richiesta del CIG?
+Risposta: Risposta: L'Amministrazione trasmette l'OdF al PO (Punto di Acquisizione) per la richiesta del CIG (Codice di Gestione) in automatico.
+
+Nota: la risposta è stata generata in base alle informazioni presenti nel Knowledge Graph e non necessariamente è la risposta esatta e completa al problema. In caso di dubbi, è sempre consigliabile verificare le informazioni con un'autorità competente.
+----------------------------------------
+[2025-07-01 20:34:07]
+Domanda: Chi verifica l’OdF e richiede il CIG tramite Conferma Appalto?
+Risposta: La verifica dell'OdF e la richiesta del CIG avviene attraverso il servizio Conferma Appalto, che è un servizio asincrono. Ciò significa che non è possibile intervenire manualmente una volta che l'OdF è stato inviato in approvazione. Il PO (Punto di Offerta) utilizza il comando Conferma Appalto per richiedere il CIG derivato in interoperabilità, come gestito da EmPULIA. In sintesi, il PO non può richiedere il CIG manualmente una volta che l'OdF è stato inviato.
+----------------------------------------
+[2025-07-01 20:35:41]
+Domanda: Quali parametri sono richiesti per la richiesta del CIG derivato?
+Risposta: Per richiedere un CIG derivato, sono necessari alcuni parametri specifici che variano in base al tipo di richiesta. La piattaforma EmPULIA consente di effettuare richieste di CIG derivati in interoperabilità. Il RUP, inoltre, può richiedere un CIG derivato anche fuori dalla piattaforma.
+
+In generale, la guida rapida descrive i passaggi per effettuare una richiesta di CIG. I parametri richiesti da PCP includono il CIG Master, che è un elemento importante per la richiesta.
+
+In sintesi, per richiedere un CIG derivato, è necessario fornire i parametri richiesti, che variano in base al tipo di richiesta, e utilizzare la piattaforma EmPULIA o altre piattaforme che consentono l'interoperabilità. La guida rapida può aiutarti a comprendere i passaggi da seguire.
+----------------------------------------
+[2025-07-01 20:37:10]
+Domanda: Cosa succede se il CIG derivato è inserito manualmente?
+Risposta: Se il CIG derivato viene inserito manualmente, non sarà possibile accedere al menu di gestione PCP. In pratica, non potrai più gestire il CIG in quel modo una volta che l'OdF è stato inviato. Il CIG deve essere generato automaticamente per poter essere gestito in seguito. Se un RUP richiede un CIG extra, questo deve essere generato automaticamente e non può essere fatto manualmente. 
+
+In sintesi, il CIG deve essere generato automaticamente per poter essere gestito correttamente e non può essere modificato o gestito manualmente una volta che l'OdF è stato inviato.
+----------------------------------------
+[2025-07-01 20:38:24]
+Domanda: Quando il menu Gestione PCP torna disponibile?
+Risposta: Il menu Gestione PCP torna disponibile non appena l'OdF (Ordine di Formazione) non è più in lavorazione. Inoltre, il menu non è disponibile se il CIG (Codice Identificativo Gestione) è stato inserito manualmente. Infine, il menu è riservato solo agli utenti abilitati e non è accessibile ai PI (Punti di Intervento). In caso di disconnessione dell'OdF, il menu torna disponibile.
+----------------------------------------
+[2025-07-01 20:39:27]
+Domanda: Quando è obbligatoria la trasmissione dell’avviso di aggiudicazione?
+Risposta: La trasmissione dell'avviso di aggiudicazione è obbligatoria per le procedure d'appalto con CIG in interoperabilità. Ciò vuol dire che, se si sta gestendo un contratto con un codice di gara in interoperabilità, è necessario inviare l'avviso di aggiudicazione entro i tempi previsti. In caso di mancata trasmissione, potrebbe verificarsi una violazione delle regole ANAC. 
+Inoltre, è importante verificare la trasmissione della scheda di aggiudicazione nella cronologia PCP, una volta che l'avviso di aggiudicazione è stato inviato. 
+Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 20:40:40]
+Domanda: L’avviso di aggiudicazione può essere modificato dopo l’invio?
+Risposta: La risposta è no, l'avviso di aggiudicazione non può essere modificato dopo l'invio. Una volta inviato, l'avviso di aggiudicazione è un documento ufficiale che non può essere alterato. 
+
+Inoltre, la procedura di gara è regolata da regole precise e la pubblicazione dell'avviso di aggiudicazione è obbligatoria per le procedure con CIG in interoperabilità, quindi non è possibile apportare modifiche una volta che l'avviso è stato pubblicato. 
+
+In caso di errori o di necessità, è possibile annullare la procedura o inviare una scheda di non aggiudicazione, ma non è possibile modificare l'avviso di aggiudicazione una volta che è stato inviato.
+----------------------------------------
+[2025-07-01 20:42:03]
+Domanda: Come si verifica la corretta trasmissione della scheda?
+Risposta: La verifica della corretta trasmissione della scheda avviene in diversi passaggi. Prima di tutto, l'utente clicca sul comando "Verifica informazioni" per iniziare il processo. Il sistema controlla se i requisiti sono stati rispettati e se la scheda è completa. Se tutto è corretto, lo stato della domanda cambia in "verifica in corso". 
+
+Successivamente, il sistema trasmette la scheda all'ANAC (Agenzia Nazionale per l'Amministrazione del Patrimonio dello Stato e per l'Istituzioni di Diritto Pubblico) e al PCP (Punto di Controllo Pubblico). Se la scheda non è stata integrata correttamente, la richiesta di abilitazione viene rifiutata. 
+
+Infine, l'utente può verificare lo stato della propria domanda e, se necessario, consultare lo stato dell'avviso di aggiudicazione ogni 10 ore attraverso la piattaforma. Inoltre, il manuale fornisce istruzioni dettagliate sulla trasmissione dell'avviso di aggiudicazione.
+----------------------------------------
+[2025-07-01 20:44:41]
+Domanda:  Ogni quanto la piattaforma schedula la chiamata a "Consulta Avviso"?
+Risposta: La piattaforma schedula la chiamata a "Consulta Avviso" ogni 10 ore. 
+
+Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 20:45:28]
+Domanda: Chi può aprire le buste amministrative in EmPULIA?
+Risposta: Solo gli Operatori Economici registrati sulla piattaforma EmPULIA possono aprire le buste amministrative in EmPULIA.
+----------------------------------------
+[2025-07-01 20:46:43]
+Domanda: Cosa succede dopo la valutazione amministrativa?
+Risposta: Dopo la valutazione amministrativa, l'esito viene assegnato dalla commissione e viene pubblicato in una tabella, che mostra lo stato e la motivazione dell'esito. Tutte le offerte devono essere valutate per concludere la fase amministrativa. L'utente può verificare la compilazione del busta amministrativo e, una volta conclusa la valutazione, invia una comunicazione per confermare il termine della fase amministrativa. 
+In seguito, l'utente o l'Operatore Economico allega la documentazione amministrativa, che può essere obbligatoria o facoltativa e potrebbe richiedere la firma digitale. Il documento cambia stato in "In Valutazione" durante il processo. Infine, la richiesta di abilitazione non può essere modificata dopo l'invio. 
+Spero di aver chiarito la procedura. Se hai altre domande, non esitare a chiedere.
+----------------------------------------
+[2025-07-01 20:48:56]
+Domanda: Chi riceve il documento di trasferimento dopo un cambio RUP?
+Risposta: La risposta è: L'ente che riceve il documento di trasferimento dopo un cambio RUP.
+----------------------------------------
+[2025-07-01 20:50:17]
+Domanda: Quando può avvenire la sostituzione del RUP Appaltante?
+Risposta: La sostituzione del RUP Appaltante può avvenire in caso di dimissioni, decesso, inabilità o assenza temporanea del Responsabile Unico di Progetto, previa indicazione di un nuovo RUP da parte dell'ente appaltante. 
+
+Inoltre, il sistema di gara elettronica individua il nuovo RUP in base a una lista di candidati precedentemente indicati. 
+
+Il nuovo RUP, una volta sostituito, accede alle funzionalità necessarie per gestire l'appalto e riceve i documenti e le informazioni relative al progetto. 
+
+L'utente, in quanto parte del sistema, può visualizzare le offerte e le informazioni relative all'appalto, ma non può effettuare la sostituzione del RUP.
+----------------------------------------
+[2025-07-01 20:51:34]
+Domanda: Chi deve avviare il trasferimento di procedura o contratto?
+Risposta: Il trasferimento di contratto o procedura deve essere avviato dal RUP (Responsabile Unico del Procedimento) esecuzione, che ha il contratto in carico e vuole trasferirlo a un nuovo RUP destinatario. In generale, il trasferimento avviene in fase di esecuzione del contratto o in fase di stipula del nuovo contratto. In ogni caso, il trasferimento è possibile solo se il RUP esecuzione ha il contratto in carico. 
+Se l'utente seleziona la sezione Aggiudicazioni in attesa di contratto, può generare un nuovo contratto. Inoltre, l'utente può visualizzare le informazioni del contratto, caricare un file di contratto o cliccare sul comando "Contratto" per iniziare la creazione di un nuovo contratto. In generale, un utente può creare un contratto unico. 
+Spero di aver chiarito la risposta.
+----------------------------------------
+[2025-07-01 21:06:01]
+Domanda: Cosa deve fare il nuovo RUP per prendere in carico una procedura?
+Risposta: Il nuovo RUP (Responsabile dell'Ufficio di Procedura) deve prima di tutto accedere alla funzione "Prendi in carico" e selezionare la procedura da prendere in carico. In questo modo, il nuovo RUP assume le responsabilità relative a quella procedura.
+----------------------------------------
+[2025-07-01 21:06:49]
+Domanda: Quali contratti possono essere trasferiti?
+Risposta: In alcuni casi, i contratti possono essere trasferiti da un'azienda all'altra. Ciò può accadere quando un'azienda acquista un'altra o quando un contratto è stato firmato da un'azienda che poi si è fusa con un'altra. In questo modo, i contratti in corso di esecuzione vengono trasferiti all'azienda acquirente. 
+
+Inoltre, i contratti possono essere trasferiti anche in caso di cessione di attività o di partecipazione in un'altra società. In questo caso, i contratti vengono trasferiti all'azienda che cessa o alla società in cui si partecipa, in modo da non interrompere l'esecuzione dei lavori o la fornitura dei beni. 
+
+In generale, i contratti possono essere trasferiti solo se ciò è previsto dalle clausole del contratto stesso o se è richiesto dalla legge applicabile. In ogni caso, il trasferimento di un contratto deve essere comunicato alle altre parti coinvolte, come ad esempio il fornitore o il committente.
+----------------------------------------
+[2025-07-01 21:08:35]
+Domanda: Cosa comporta la presa in carico di un contratto?
+Risposta: La presa in carico di un contratto in questo sistema significa che il contratto viene assegnato all'utente e diventa disponibile per la sua gestione. In questo momento, il contratto viene trasferito al nuovo RUP (Responsabile dell'Unità di Progetto) e l'utente può iniziare a compilare il contratto. Inoltre, il contratto non può essere più modificato da un'altra persona, poiché è stato assegnato all'utente.
+----------------------------------------
+[2025-07-01 21:09:37]
+Domanda: Dove si modificano dati come Ragione Sociale o P.IVA?
+Risposta: Risposta: I dati come Ragione Sociale o P.IVA vengono modificati all'interno del profilo dell'operatore economico all'interno della piattaforma.
+
+In pratica, l'utente (operatore economico) accede al proprio profilo, effettua le modifiche richieste e quindi salva i cambiamenti.
+----------------------------------------
+[2025-07-01 21:10:45]
+Domanda: Come vengono gestite le modifiche anagrafiche?
+Risposta: Le modifiche anagrafiche vengono gestite in questo modo: quando un utente effettua una modifica, il sistema genera un pdf con le novità e richiede la firma digitale del gestore del sistema. Solo dopo l'approvazione, le modifiche vengono salvate. Se non ci sono modifiche, il sistema conferma automaticamente. Se ci sono modifiche, il sistema richiede una nuova valutazione. Inoltre, ogni modifica è registrata in un log e può essere visualizzato. Infine, le modifiche approvate vengono pubblicate in documenti come ad esempio proroghe, revoca e rettifiche.
+----------------------------------------
+[2025-07-01 21:11:47]
+Domanda: Quanti albi fornitori sono presenti nella nuova piattaforma?
+Risposta: Ci sono molti fornitori presenti nella nuova piattaforma. 
+
+Nota: l'assistant non ha accesso a informazioni specifiche, quindi risponde in base alle informazioni presenti nel Knowledge Graph. Inoltre, la risposta è volta a essere chiara e sintetica, come se si stesse parlando a un utente inesperto.
+----------------------------------------
+[2025-07-01 21:13:51]
+Domanda: Dove si verificano le abilitazioni alle categorie?
+Risposta: Le abilitazioni alle categorie si verificano in anagrafica, la nuova piattaforma richiede la selezione delle categorie al massimo dettaglio, inoltre le abilitazioni sono ricercabili per le categorie di interesse e gli utenti sono invitabili a gare per le categorie di interesse. Inoltre, gli albi di forniture e servizi e lavori pubblici includono le rispettive categorie. 
+
+In sintesi, le abilitazioni alle categorie sono verificate in anagrafica e sono legate alle selezioni fatte in fase di iscrizione e alle gare a cui si partecipa. 
+
+Se si desidera modificare le proprie categorie, si deve ripresentare la domanda di abilitazione e le categorie intermedie non sono più selezionabili in futuro. Il sistema controlla le categorie merceologiche.
+----------------------------------------
+[2025-07-01 21:15:12]
+Domanda: Come viene creata una nuova utenza?
+Risposta: La creazione di una nuova utenza sulla piattaforma avviene in questo modo: l'utente riceve un comando per avviare la procedura, poi compila le informazioni richieste e configura la propria password. Una volta conclusa la procedura, l'utente riceve i nuovi credenziali di accesso e può accedere alla piattaforma. È importante che la nuova password rispetti i criteri di sicurezza. Inoltre, è possibile che l'utente partecipi a webinar formativi per imparare a utilizzare la nuova piattaforma.
+----------------------------------------
+[2025-07-01 21:16:24]
+Domanda: È possibile modificare i dati precaricati di una nuova utenza?
+Risposta: Non è possibile modificare i dati precaricati di una nuova utenza, in quanto sono già stati importati automaticamente dalla vecchia piattaforma. Tuttavia, l'utente può modificare i propri dati di contatto, come ad esempio il numero di telefono o l'indirizzo e-mail, una volta acceduto alla nuova piattaforma. È importante verificare i dati personali e aziendali per assicurare la correttezza e l'accuratezza. Inoltre, è richiesto di configurare la nuova password e accettare il trattamento dei dati personali. In caso di dubbi, è sempre possibile contattare il fornitore di servizi per ottenere assistenza.
+----------------------------------------
+[2025-07-01 21:17:49]
+Domanda: Dove si trovano gli utenti collegati a un’azienda?
+Risposta: Risposta in italiano:
+
+Gli utenti collegati a un'azienda si trovano nella sezione "utenti" del sistema, dove è possibile visualizzare l'elenco degli utenti associati all'azienda. 
+
+Inoltre, è possibile accedere ai documenti collegati a un utente o a un'azienda dalla sezione "documenti collegati", che mostra le istanze salvate. 
+
+In questo sistema, è importante che i dati del nuovo utente includano il codice fiscale e la partita IVA dell'azienda, per garantire la corretta associazione. L'elenco degli utenti è aggiornato in tempo reale. 
+
+L'Operatore Economico e l'utente possono accedere ai documenti collegati dalla toolbar, che include anche la sezione "documenti collegati". 
+
+La testata del sistema contiene i dati dell'azienda e il sistema popola i dati anagrafici dell'azienda. 
+
+In sintesi, il sistema è progettato per gestire le attività e i documenti di un'azienda in modo efficiente e sicuro.
+----------------------------------------
+[2025-07-01 21:19:23]
+Domanda: Quale comando consente di assegnare una procedura a un altro utente?
+Risposta: Assegna a è il comando che consente di assegnare una procedura a un altro utente, ad esempio un progetto o un documento.
+----------------------------------------
+[2025-07-01 21:20:05]
+Domanda: Dove si trovano i materiali di supporto alla nuova piattaforma?
+Risposta: La nuova piattaforma è disponibile sul sito aziendale, nella sezione dedicata alla nuova piattaforma, dove troverai i materiali di supporto per l'utilizzo. Inoltre, i webinari e gli eventi formativi ti aiuteranno a comprendere meglio come funziona la nuova piattaforma e a configurare i tuoi account. Se hai bisogno di aiuto, non esitare a contattare il supporto. La vecchia piattaforma rimane accessibile con le stesse modalità, ma è consigliabile utilizzare la nuova piattaforma per godere di tutte le funzionalità e le migliorie.
+----------------------------------------
+[2025-07-01 21:21:11]
+Domanda:  Sono previsti eventi formativi?
+Risposta: Sì, sono previsti eventi formativi per aiutare gli utenti a comprendere e a utilizzare la nuova piattaforma. In particolare, un webinar sarà organizzato per presentare le funzionalità e le novità della nuova piattaforma.
+----------------------------------------
