@@ -4,14 +4,11 @@ PyMuPDF
 huggingface_hub
 numpy
 sentence-transformers
-faiss-cpu
 spacy
 transformers 
 torch
 llama-cpp-python
 tiktoken
 networkx
-langchain
-langchain-community
 nltk
 gradio
