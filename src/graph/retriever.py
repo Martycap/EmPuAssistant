@@ -8,9 +8,6 @@ def clean_and_tokenize(text):
     return [w for w in words if w not in STOPWORDS]
 
 def find_relevant_triples(graph, query: str, top_k=20) -> list:
-    """
-    Ritorna le triple più rilevanti rispetto alla query, ordinate per punteggio.
-    """
     keywords = clean_and_tokenize(query)
     scored_triples = []
 
