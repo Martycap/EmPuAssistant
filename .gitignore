@@ -4,3 +4,4 @@ data/REPHRASE_TEXT
 models
 .gradio
 knowledge_graph
+__pycache__/
