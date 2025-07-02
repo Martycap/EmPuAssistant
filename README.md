@@ -16,6 +16,7 @@ Martina Capone – University of Bari Aldo Moro, Italy
 
 ## Project Structure
 
+```
 data/                 # PDF, TEXT, REPHRASE\_TEXT, TRIPLES
 knowledge\_graph/      # kg.graphml
 models/               # ANITA/, mistral/
@@ -23,17 +24,17 @@ pipelines/            # preprocessing.py
 src/                  # scraping/, processing/, utils/, ui/
 EmPuAssinstant\_\*.py   # LLM-based assistant launchers
 requirements.txt
-
+```
 
 
 ## Quickstart
 
-
+```
 pip install -r requirements.txt
 python src/utils/download_model.py --model anita
 python pipelines/preprocessing.py
 python EmPuAssinstant_ANITA.py      # or EmPuAssinstant_mistral.py
-
+```
 
 Then open your browser to access the Gradio interface.
 
