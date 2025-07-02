@@ -1,45 +1,71 @@
-# 📚 EmpuAssistant – Virtual Assistant for Empulia Documentation
-EmpuAssistant is an NLP-based virtual assistant designed to help users navigate and understand the practical guides and manuals published on the Empulia portal. The project leverages open-source language models and semantic search to enable natural language question answering over official documentation.
-
-## 🔍 Main Features
-- Web scraping & preprocessing of official PDFs from the Empulia site
-
-- Text extraction with PyMuPDF and chunking strategy
-
-- Embedding generation using SentenceTransformers (all-MiniLM-L6-v2)
-
-- Semantic retrieval via FAISS for document similarity
-
-- Local inference using llama-cpp-python and a quantized .gguf model (e.g., TinyLlama)
-
-- RAG pipeline (Retrieval-Augmented Generation) that answers questions based on real content
-
-## ⚙️ Technologies
-
-- Python
-
-- FAISS
-
-- SentenceTransformers
-
-- llama-cpp-python
-
-- LangChain (optional extension)
-
-## 🎓 Academic Context
-This project was developed as part of an NLP course assignment, with the goal of exploring practical applications of local language models and document intelligence in public administration.
-
-## 🗂 Structure
-
-├── docs/         # Preprocessed .txt documents extracted from Empulia PDFs
-
-├── model/        # Quantized LLM model (.gguf)
-
-├── db/           # FAISS index for retrieval
-
-├── app.py        # Main pipeline: retrieval + LLM response
-
-└── README.md     # Project description and setup
+# EmPuAssistant 
+**Virtual Assistant for EmPULIA Documentation**  
+Martina Capone – University of Bari Aldo Moro, Italy
 
 
-isntalla: python -m spacy download it_core_news_sm
+## Overview
+
+**EmPuAssistant** is a virtual assistant powered by LLMs that answers questions based on institutional documentation from the **EmPULIA** platform, through a two-phase semantic pipeline:
+
+- **Phase 1 – KG Construction**: scraping official PDFs, text reformulation with ANITA, RDF triple extraction, and knowledge graph generation.
+- **Phase 2 – RAG QA**: user query → relevant triples retrieval → grounded answer generated via ANITA or Mistral.
+
+> Includes an interactive Gradio interface. Evaluation conducted on 52 domain-specific procedural queries.
+
+
+
+## Project Structure
+
+data/                 # PDF, TEXT, REPHRASE\_TEXT, TRIPLES
+knowledge\_graph/      # kg.graphml
+models/               # ANITA/, mistral/
+pipelines/            # preprocessing.py
+src/                  # scraping/, processing/, utils/, ui/
+EmPuAssinstant\_\*.py   # LLM-based assistant launchers
+requirements.txt
+
+
+
+## Quickstart
+
+
+pip install -r requirements.txt
+python src/utils/download_model.py --model anita
+python pipelines/preprocessing.py
+python EmPuAssinstant_ANITA.py      # or EmPuAssinstant_mistral.py
+
+
+Then open your browser to access the Gradio interface.
+
+
+## Key Libraries
+
+* `llama-cpp-python`, `transformers`, `torch`, `sentence-transformers`
+* `spacy`, `nltk`, `PyMuPDF`, `networkx`, `gradio`
+* `requests`, `beautifulsoup4`, `tiktoken`, `huggingface_hub`
+
+---
+
+## RAG QA Results
+
+| Model            | Accuracy | Completeness | Hallucinations | Language   |
+| ---------------- | -------- | ------------ | -------------- | ---------- |
+| LLaMAntino-ANITA | High     | High         | None           | Italian ✔️ |
+| Mistral-7B       | Medium   | Partial      | Some           | Mixed ❌    |
+
+* ANITA outperformed ReBEL and spaCy for RDF triple generation due to its Italian-language specialization.
+
+
+## Notes
+
+* Includes a DevContainer for out-of-the-box setup.
+* The assistant is optimized for Italian legal and procedural content.
+
+
+## Future Work
+
+* Integration of semantic vector retrievers (e.g., FAISS)
+* Automatic Knowledge Graph updating
+* Multi-turn memory and dialogue support
+
+
